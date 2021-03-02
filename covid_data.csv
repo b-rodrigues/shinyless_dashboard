@@ -1,0 +1,2573 @@
+week,country,region,sub_region,cases,deaths
+2020-02-24,Luxembourg,Luxembourg,Luxembourg,0,0
+2020-03-02,Luxembourg,Luxembourg,Luxembourg,0,0
+2020-03-09,Luxembourg,Luxembourg,Luxembourg,0,0
+2020-03-16,Luxembourg,Luxembourg,Luxembourg,699,7
+2020-03-23,Luxembourg,Luxembourg,Luxembourg,1024,14
+2020-03-30,Luxembourg,Luxembourg,Luxembourg,627,15
+2020-04-06,Luxembourg,Luxembourg,Luxembourg,295,26
+2020-04-13,Luxembourg,Luxembourg,Luxembourg,182,13
+2020-04-20,Luxembourg,Luxembourg,Luxembourg,98,13
+2020-04-27,Luxembourg,Luxembourg,Luxembourg,63,8
+2020-05-04,Luxembourg,Luxembourg,Luxembourg,42,5
+2020-05-11,Luxembourg,Luxembourg,Luxembourg,38,5
+2020-05-18,Luxembourg,Luxembourg,Luxembourg,38,3
+2020-05-25,Luxembourg,Luxembourg,Luxembourg,16,1
+2020-06-01,Luxembourg,Luxembourg,Luxembourg,13,0
+2020-06-08,Luxembourg,Luxembourg,Luxembourg,24,0
+2020-06-15,Luxembourg,Luxembourg,Luxembourg,41,0
+2020-06-22,Luxembourg,Luxembourg,Luxembourg,127,0
+2020-06-29,Luxembourg,Luxembourg,Luxembourg,250,0
+2020-07-06,Luxembourg,Luxembourg,Luxembourg,346,1
+2020-07-13,Luxembourg,Luxembourg,Luxembourg,580,0
+2020-07-20,Luxembourg,Luxembourg,Luxembourg,582,1
+2020-07-27,Luxembourg,Luxembourg,Luxembourg,438,6
+2020-08-03,Luxembourg,Luxembourg,Luxembourg,297,4
+2020-08-10,Luxembourg,Luxembourg,Luxembourg,205,2
+2020-08-17,Luxembourg,Luxembourg,Luxembourg,271,0
+2020-08-24,Luxembourg,Luxembourg,Luxembourg,288,0
+2020-08-31,Luxembourg,Luxembourg,Luxembourg,281,0
+2020-09-07,Luxembourg,Luxembourg,Luxembourg,283,1
+2020-09-14,Luxembourg,Luxembourg,Luxembourg,671,0
+2020-09-21,Luxembourg,Luxembourg,Luxembourg,460,0
+2020-09-28,Luxembourg,Luxembourg,Luxembourg,549,2
+2020-10-05,Luxembourg,Luxembourg,Luxembourg,805,6
+2020-10-12,Luxembourg,Luxembourg,Luxembourg,1280,2
+2020-10-19,Luxembourg,Luxembourg,Luxembourg,3390,12
+2020-10-26,Luxembourg,Luxembourg,Luxembourg,4709,14
+2020-11-02,Luxembourg,Luxembourg,Luxembourg,4133,38
+2020-11-09,Luxembourg,Luxembourg,Luxembourg,4005,39
+2020-11-16,Luxembourg,Luxembourg,Luxembourg,3851,40
+2020-11-23,Luxembourg,Luxembourg,Luxembourg,3562,53
+2020-11-30,Luxembourg,Luxembourg,Luxembourg,3796,39
+2020-12-07,Luxembourg,Luxembourg,Luxembourg,3420,45
+2020-12-14,Luxembourg,Luxembourg,Luxembourg,2680,39
+2020-12-21,Luxembourg,Luxembourg,Luxembourg,1267,39
+2020-12-28,Luxembourg,Luxembourg,Luxembourg,967,15
+2021-01-04,Luxembourg,Luxembourg,Luxembourg,1204,36
+2021-01-11,Luxembourg,Luxembourg,Luxembourg,856,20
+2021-01-18,Luxembourg,Luxembourg,Luxembourg,843,9
+2021-01-25,Luxembourg,Luxembourg,Luxembourg,999,14
+2021-02-01,Luxembourg,Luxembourg,Luxembourg,1140,14
+2021-02-08,Luxembourg,Luxembourg,Luxembourg,1099,11
+2021-02-15,Luxembourg,Luxembourg,Luxembourg,1249,16
+2021-02-22,Luxembourg,Luxembourg,Luxembourg,938,9
+2020-03-02,France,Lorraine,Meurthe-et-Moselle,10,
+2020-03-02,France,Lorraine,Meuse,3,
+2020-03-02,France,Lorraine,Moselle,25,
+2020-03-02,France,Lorraine,Vosges,18,
+2020-03-09,France,Lorraine,Meurthe-et-Moselle,169,
+2020-03-09,France,Lorraine,Meuse,31,
+2020-03-09,France,Lorraine,Moselle,567,
+2020-03-09,France,Lorraine,Vosges,223,
+2020-03-16,France,Lorraine,Meurthe-et-Moselle,169,
+2020-03-16,France,Lorraine,Meuse,30,
+2020-03-16,France,Lorraine,Moselle,551,
+2020-03-16,France,Lorraine,Vosges,145,
+2020-03-23,France,Lorraine,Meurthe-et-Moselle,82,
+2020-03-23,France,Lorraine,Meuse,20,
+2020-03-23,France,Lorraine,Moselle,152,
+2020-03-23,France,Lorraine,Vosges,194,
+2020-03-30,France,Lorraine,Meurthe-et-Moselle,97,
+2020-03-30,France,Lorraine,Meuse,40,
+2020-03-30,France,Lorraine,Moselle,372,
+2020-03-30,France,Lorraine,Vosges,268,
+2020-04-06,France,Lorraine,Meurthe-et-Moselle,94,
+2020-04-06,France,Lorraine,Meuse,32,
+2020-04-06,France,Lorraine,Moselle,364,
+2020-04-06,France,Lorraine,Vosges,190,
+2020-04-13,France,Lorraine,Meurthe-et-Moselle,48,
+2020-04-13,France,Lorraine,Meuse,22,
+2020-04-13,France,Lorraine,Moselle,270,
+2020-04-13,France,Lorraine,Vosges,64,
+2020-04-20,France,Lorraine,Meurthe-et-Moselle,24,
+2020-04-20,France,Lorraine,Meuse,28,
+2020-04-20,France,Lorraine,Moselle,108,
+2020-04-20,France,Lorraine,Vosges,2,
+2020-04-27,France,Lorraine,Meurthe-et-Moselle,2,
+2020-04-27,France,Lorraine,Meuse,0,
+2020-04-27,France,Lorraine,Moselle,22,
+2020-04-27,France,Lorraine,Vosges,2,
+2020-05-04,France,Lorraine,Meurthe-et-Moselle,2,
+2020-05-04,France,Lorraine,Meuse,2,
+2020-05-04,France,Lorraine,Moselle,0,
+2020-05-04,France,Lorraine,Vosges,22,
+2020-05-11,France,Lorraine,Meurthe-et-Moselle,114,
+2020-05-11,France,Lorraine,Meuse,97,
+2020-05-11,France,Lorraine,Moselle,242,
+2020-05-11,France,Lorraine,Vosges,52,
+2020-05-18,France,Lorraine,Meurthe-et-Moselle,232,
+2020-05-18,France,Lorraine,Meuse,86,
+2020-05-18,France,Lorraine,Moselle,390,
+2020-05-18,France,Lorraine,Vosges,72,
+2020-05-25,France,Lorraine,Meurthe-et-Moselle,118,
+2020-05-25,France,Lorraine,Meuse,36,
+2020-05-25,France,Lorraine,Moselle,178,
+2020-05-25,France,Lorraine,Vosges,40,
+2020-06-01,France,Lorraine,Meurthe-et-Moselle,336,
+2020-06-01,France,Lorraine,Meuse,98,
+2020-06-01,France,Lorraine,Moselle,128,
+2020-06-01,France,Lorraine,Vosges,20,
+2020-06-08,France,Lorraine,Meurthe-et-Moselle,308,
+2020-06-08,France,Lorraine,Meuse,62,
+2020-06-08,France,Lorraine,Moselle,78,
+2020-06-08,France,Lorraine,Vosges,34,
+2020-06-15,France,Lorraine,Meurthe-et-Moselle,218,
+2020-06-15,France,Lorraine,Meuse,34,
+2020-06-15,France,Lorraine,Moselle,64,
+2020-06-15,France,Lorraine,Vosges,26,
+2020-06-22,France,Lorraine,Meurthe-et-Moselle,80,
+2020-06-22,France,Lorraine,Meuse,8,
+2020-06-22,France,Lorraine,Moselle,68,
+2020-06-22,France,Lorraine,Vosges,16,
+2020-06-29,France,Lorraine,Meurthe-et-Moselle,56,
+2020-06-29,France,Lorraine,Meuse,8,
+2020-06-29,France,Lorraine,Moselle,56,
+2020-06-29,France,Lorraine,Vosges,26,
+2020-07-06,France,Lorraine,Meurthe-et-Moselle,62,
+2020-07-06,France,Lorraine,Meuse,6,
+2020-07-06,France,Lorraine,Moselle,38,
+2020-07-06,France,Lorraine,Vosges,36,
+2020-07-13,France,Lorraine,Meurthe-et-Moselle,116,
+2020-07-13,France,Lorraine,Meuse,8,
+2020-07-13,France,Lorraine,Moselle,104,
+2020-07-13,France,Lorraine,Vosges,150,
+2020-07-20,France,Lorraine,Meurthe-et-Moselle,164,
+2020-07-20,France,Lorraine,Meuse,6,
+2020-07-20,France,Lorraine,Moselle,116,
+2020-07-20,France,Lorraine,Vosges,88,
+2020-07-27,France,Lorraine,Meurthe-et-Moselle,244,
+2020-07-27,France,Lorraine,Meuse,10,
+2020-07-27,France,Lorraine,Moselle,176,
+2020-07-27,France,Lorraine,Vosges,44,
+2020-08-03,France,Lorraine,Meurthe-et-Moselle,303,
+2020-08-03,France,Lorraine,Meuse,12,
+2020-08-03,France,Lorraine,Moselle,264,
+2020-08-03,France,Lorraine,Vosges,26,
+2020-08-10,France,Lorraine,Meurthe-et-Moselle,202,
+2020-08-10,France,Lorraine,Meuse,36,
+2020-08-10,France,Lorraine,Moselle,280,
+2020-08-10,France,Lorraine,Vosges,94,
+2020-08-17,France,Lorraine,Meurthe-et-Moselle,248,
+2020-08-17,France,Lorraine,Meuse,14,
+2020-08-17,France,Lorraine,Moselle,406,
+2020-08-17,France,Lorraine,Vosges,82,
+2020-08-24,France,Lorraine,Meurthe-et-Moselle,472,
+2020-08-24,France,Lorraine,Meuse,64,
+2020-08-24,France,Lorraine,Moselle,682,
+2020-08-24,France,Lorraine,Vosges,116,
+2020-08-31,France,Lorraine,Meurthe-et-Moselle,538,
+2020-08-31,France,Lorraine,Meuse,38,
+2020-08-31,France,Lorraine,Moselle,532,
+2020-08-31,France,Lorraine,Vosges,120,
+2020-09-07,France,Lorraine,Meurthe-et-Moselle,825,
+2020-09-07,France,Lorraine,Meuse,96,
+2020-09-07,France,Lorraine,Moselle,616,
+2020-09-07,France,Lorraine,Vosges,132,
+2020-09-14,France,Lorraine,Meurthe-et-Moselle,768,
+2020-09-14,France,Lorraine,Meuse,110,
+2020-09-14,France,Lorraine,Moselle,743,
+2020-09-14,France,Lorraine,Vosges,140,
+2020-09-21,France,Lorraine,Meurthe-et-Moselle,618,
+2020-09-21,France,Lorraine,Meuse,90,
+2020-09-21,France,Lorraine,Moselle,618,
+2020-09-21,France,Lorraine,Vosges,138,
+2020-09-28,France,Lorraine,Meurthe-et-Moselle,900,
+2020-09-28,France,Lorraine,Meuse,190,
+2020-09-28,France,Lorraine,Moselle,762,
+2020-09-28,France,Lorraine,Vosges,186,
+2020-10-05,France,Lorraine,Meurthe-et-Moselle,1688,
+2020-10-05,France,Lorraine,Meuse,190,
+2020-10-05,France,Lorraine,Moselle,1580,
+2020-10-05,France,Lorraine,Vosges,407,
+2020-10-12,France,Lorraine,Meurthe-et-Moselle,2544,
+2020-10-12,France,Lorraine,Meuse,342,
+2020-10-12,France,Lorraine,Moselle,2912,
+2020-10-12,France,Lorraine,Vosges,992,
+2020-10-19,France,Lorraine,Meurthe-et-Moselle,4451,
+2020-10-19,France,Lorraine,Meuse,690,
+2020-10-19,France,Lorraine,Moselle,6638,
+2020-10-19,France,Lorraine,Vosges,2088,
+2020-10-26,France,Lorraine,Meurthe-et-Moselle,6376,
+2020-10-26,France,Lorraine,Meuse,1200,
+2020-10-26,France,Lorraine,Moselle,8874,
+2020-10-26,France,Lorraine,Vosges,3078,
+2020-11-02,France,Lorraine,Meurthe-et-Moselle,5272,
+2020-11-02,France,Lorraine,Meuse,1390,
+2020-11-02,France,Lorraine,Moselle,9010,
+2020-11-02,France,Lorraine,Vosges,3146,
+2020-11-09,France,Lorraine,Meurthe-et-Moselle,3297,
+2020-11-09,France,Lorraine,Meuse,758,
+2020-11-09,France,Lorraine,Moselle,5898,
+2020-11-09,France,Lorraine,Vosges,2046,
+2020-11-16,France,Lorraine,Meurthe-et-Moselle,2508,
+2020-11-16,France,Lorraine,Meuse,668,
+2020-11-16,France,Lorraine,Moselle,4466,
+2020-11-16,France,Lorraine,Vosges,1258,
+2020-11-23,France,Lorraine,Meurthe-et-Moselle,1940,
+2020-11-23,France,Lorraine,Meuse,574,
+2020-11-23,France,Lorraine,Moselle,3308,
+2020-11-23,France,Lorraine,Vosges,946,
+2020-11-30,France,Lorraine,Meurthe-et-Moselle,2396,
+2020-11-30,France,Lorraine,Meuse,658,
+2020-11-30,France,Lorraine,Moselle,3376,
+2020-11-30,France,Lorraine,Vosges,1407,
+2020-12-07,France,Lorraine,Meurthe-et-Moselle,3534,
+2020-12-07,France,Lorraine,Meuse,950,
+2020-12-07,France,Lorraine,Moselle,4090,
+2020-12-07,France,Lorraine,Vosges,1878,
+2020-12-14,France,Lorraine,Meurthe-et-Moselle,4343,
+2020-12-14,France,Lorraine,Meuse,1178,
+2020-12-14,France,Lorraine,Moselle,4926,
+2020-12-14,France,Lorraine,Vosges,2414,
+2020-12-21,France,Lorraine,Meurthe-et-Moselle,3707,
+2020-12-21,France,Lorraine,Meuse,945,
+2020-12-21,France,Lorraine,Moselle,3924,
+2020-12-21,France,Lorraine,Vosges,1584,
+2020-12-28,France,Lorraine,Meurthe-et-Moselle,3014,
+2020-12-28,France,Lorraine,Meuse,758,
+2020-12-28,France,Lorraine,Moselle,3952,
+2020-12-28,France,Lorraine,Vosges,1402,
+2021-01-04,France,Lorraine,Meurthe-et-Moselle,4666,
+2021-01-04,France,Lorraine,Meuse,1286,
+2021-01-04,France,Lorraine,Moselle,6026,
+2021-01-04,France,Lorraine,Vosges,1990,
+2021-01-11,France,Lorraine,Meurthe-et-Moselle,3344,
+2021-01-11,France,Lorraine,Meuse,922,
+2021-01-11,France,Lorraine,Moselle,4136,
+2021-01-11,France,Lorraine,Vosges,1441,
+2021-01-18,France,Lorraine,Meurthe-et-Moselle,3652,
+2021-01-18,France,Lorraine,Meuse,980,
+2021-01-18,France,Lorraine,Moselle,4680,
+2021-01-18,France,Lorraine,Vosges,1420,
+2021-01-25,France,Lorraine,Meurthe-et-Moselle,3650,
+2021-01-25,France,Lorraine,Meuse,684,
+2021-01-25,France,Lorraine,Moselle,5726,
+2021-01-25,France,Lorraine,Vosges,1246,
+2021-02-01,France,Lorraine,Meurthe-et-Moselle,2967,
+2021-02-01,France,Lorraine,Meuse,548,
+2021-02-01,France,Lorraine,Moselle,5901,
+2021-02-01,France,Lorraine,Vosges,1236,
+2021-02-08,France,Lorraine,Meurthe-et-Moselle,2578,
+2021-02-08,France,Lorraine,Meuse,504,
+2021-02-08,France,Lorraine,Moselle,5842,
+2021-02-08,France,Lorraine,Vosges,914,
+2021-02-15,France,Lorraine,Meurthe-et-Moselle,3055,
+2021-02-15,France,Lorraine,Meuse,448,
+2021-02-15,France,Lorraine,Moselle,6440,
+2021-02-15,France,Lorraine,Vosges,822,
+2021-02-22,France,Lorraine,Meurthe-et-Moselle,2296,
+2021-02-22,France,Lorraine,Meuse,310,
+2021-02-22,France,Lorraine,Moselle,4214,
+2021-02-22,France,Lorraine,Vosges,549,
+2020-02-24,Belgique,Wallonie,Liège,3,0
+2020-03-02,Belgique,Wallonie,Brabant Wallon,15,0
+2020-03-02,Belgique,Wallonie,Hainaut,26,0
+2020-03-02,Belgique,Wallonie,Liège,41,0
+2020-03-02,Belgique,Wallonie,Namur,10,0
+2020-03-02,Belgique,Wallonie,Province de Luxembourg,2,0
+2020-03-09,Belgique,Wallonie,Brabant Wallon,40,0
+2020-03-09,Belgique,Wallonie,Hainaut,180,0
+2020-03-09,Belgique,Wallonie,Liège,153,0
+2020-03-09,Belgique,Wallonie,Namur,22,0
+2020-03-09,Belgique,Wallonie,Province de Luxembourg,16,0
+2020-03-09,Belgique,Wallonie,,0,1
+2020-03-16,Belgique,Wallonie,Brabant Wallon,142,0
+2020-03-16,Belgique,Wallonie,Hainaut,448,0
+2020-03-16,Belgique,Wallonie,Liège,427,0
+2020-03-16,Belgique,Wallonie,Namur,91,0
+2020-03-16,Belgique,Wallonie,Province de Luxembourg,92,0
+2020-03-16,Belgique,Wallonie,,0,72
+2020-03-23,Belgique,Wallonie,Brabant Wallon,187,0
+2020-03-23,Belgique,Wallonie,Hainaut,840,0
+2020-03-23,Belgique,Wallonie,Liège,805,0
+2020-03-23,Belgique,Wallonie,Namur,232,0
+2020-03-23,Belgique,Wallonie,Province de Luxembourg,203,0
+2020-03-23,Belgique,Wallonie,,0,293
+2020-03-30,Belgique,Wallonie,Brabant Wallon,208,0
+2020-03-30,Belgique,Wallonie,Hainaut,1002,0
+2020-03-30,Belgique,Wallonie,Liège,1214,0
+2020-03-30,Belgique,Wallonie,Namur,375,0
+2020-03-30,Belgique,Wallonie,Province de Luxembourg,389,0
+2020-03-30,Belgique,Wallonie,,0,542
+2020-04-06,Belgique,Wallonie,Brabant Wallon,226,0
+2020-04-06,Belgique,Wallonie,Hainaut,1165,0
+2020-04-06,Belgique,Wallonie,Liège,1236,0
+2020-04-06,Belgique,Wallonie,Namur,391,0
+2020-04-06,Belgique,Wallonie,Province de Luxembourg,222,0
+2020-04-06,Belgique,Wallonie,,0,743
+2020-04-13,Belgique,Wallonie,Brabant Wallon,230,0
+2020-04-13,Belgique,Wallonie,Hainaut,1061,0
+2020-04-13,Belgique,Wallonie,Liège,1316,0
+2020-04-13,Belgique,Wallonie,Namur,381,0
+2020-04-13,Belgique,Wallonie,Province de Luxembourg,239,0
+2020-04-13,Belgique,Wallonie,,0,563
+2020-04-20,Belgique,Wallonie,Brabant Wallon,204,0
+2020-04-20,Belgique,Wallonie,Hainaut,893,0
+2020-04-20,Belgique,Wallonie,Liège,781,0
+2020-04-20,Belgique,Wallonie,Namur,302,0
+2020-04-20,Belgique,Wallonie,Province de Luxembourg,80,0
+2020-04-20,Belgique,Wallonie,,0,427
+2020-04-27,Belgique,Wallonie,Brabant Wallon,49,0
+2020-04-27,Belgique,Wallonie,Hainaut,311,0
+2020-04-27,Belgique,Wallonie,Liège,249,0
+2020-04-27,Belgique,Wallonie,Namur,166,0
+2020-04-27,Belgique,Wallonie,Province de Luxembourg,42,0
+2020-04-27,Belgique,Wallonie,,0,248
+2020-05-04,Belgique,Wallonie,Brabant Wallon,67,0
+2020-05-04,Belgique,Wallonie,Hainaut,293,0
+2020-05-04,Belgique,Wallonie,Liège,273,0
+2020-05-04,Belgique,Wallonie,Namur,171,0
+2020-05-04,Belgique,Wallonie,Province de Luxembourg,45,0
+2020-05-04,Belgique,Wallonie,,0,179
+2020-05-11,Belgique,Wallonie,Brabant Wallon,40,0
+2020-05-11,Belgique,Wallonie,Hainaut,223,0
+2020-05-11,Belgique,Wallonie,Liège,153,0
+2020-05-11,Belgique,Wallonie,Namur,92,0
+2020-05-11,Belgique,Wallonie,Province de Luxembourg,27,0
+2020-05-11,Belgique,Wallonie,,0,103
+2020-05-18,Belgique,Wallonie,Brabant Wallon,39,0
+2020-05-18,Belgique,Wallonie,Hainaut,151,0
+2020-05-18,Belgique,Wallonie,Liège,108,0
+2020-05-18,Belgique,Wallonie,Namur,45,0
+2020-05-18,Belgique,Wallonie,Province de Luxembourg,17,0
+2020-05-18,Belgique,Wallonie,,0,81
+2020-05-25,Belgique,Wallonie,Brabant Wallon,23,0
+2020-05-25,Belgique,Wallonie,Hainaut,142,0
+2020-05-25,Belgique,Wallonie,Liège,74,0
+2020-05-25,Belgique,Wallonie,Namur,38,0
+2020-05-25,Belgique,Wallonie,Province de Luxembourg,22,0
+2020-05-25,Belgique,Wallonie,,0,48
+2020-06-01,Belgique,Wallonie,Brabant Wallon,25,0
+2020-06-01,Belgique,Wallonie,Hainaut,84,0
+2020-06-01,Belgique,Wallonie,Liège,64,0
+2020-06-01,Belgique,Wallonie,Namur,22,0
+2020-06-01,Belgique,Wallonie,Province de Luxembourg,11,0
+2020-06-01,Belgique,Wallonie,,0,35
+2020-06-08,Belgique,Wallonie,Brabant Wallon,19,0
+2020-06-08,Belgique,Wallonie,Hainaut,86,0
+2020-06-08,Belgique,Wallonie,Liège,48,0
+2020-06-08,Belgique,Wallonie,Namur,15,0
+2020-06-08,Belgique,Wallonie,Province de Luxembourg,16,0
+2020-06-08,Belgique,Wallonie,,0,18
+2020-06-15,Belgique,Wallonie,Brabant Wallon,16,0
+2020-06-15,Belgique,Wallonie,Hainaut,66,0
+2020-06-15,Belgique,Wallonie,Liège,50,0
+2020-06-15,Belgique,Wallonie,Namur,12,0
+2020-06-15,Belgique,Wallonie,Province de Luxembourg,17,0
+2020-06-15,Belgique,Wallonie,,0,8
+2020-06-22,Belgique,Wallonie,Brabant Wallon,17,0
+2020-06-22,Belgique,Wallonie,Hainaut,93,0
+2020-06-22,Belgique,Wallonie,Liège,36,0
+2020-06-22,Belgique,Wallonie,Namur,10,0
+2020-06-22,Belgique,Wallonie,Province de Luxembourg,20,0
+2020-06-22,Belgique,Wallonie,,0,15
+2020-06-29,Belgique,Wallonie,Brabant Wallon,11,0
+2020-06-29,Belgique,Wallonie,Hainaut,69,0
+2020-06-29,Belgique,Wallonie,Liège,22,0
+2020-06-29,Belgique,Wallonie,Namur,11,0
+2020-06-29,Belgique,Wallonie,Province de Luxembourg,12,0
+2020-06-29,Belgique,Wallonie,,0,11
+2020-07-06,Belgique,Wallonie,Brabant Wallon,19,0
+2020-07-06,Belgique,Wallonie,Hainaut,44,0
+2020-07-06,Belgique,Wallonie,Liège,49,0
+2020-07-06,Belgique,Wallonie,Namur,7,0
+2020-07-06,Belgique,Wallonie,Province de Luxembourg,23,0
+2020-07-06,Belgique,Wallonie,,0,2
+2020-07-13,Belgique,Wallonie,Brabant Wallon,17,0
+2020-07-13,Belgique,Wallonie,Hainaut,111,0
+2020-07-13,Belgique,Wallonie,Liège,97,0
+2020-07-13,Belgique,Wallonie,Namur,22,0
+2020-07-13,Belgique,Wallonie,Province de Luxembourg,54,0
+2020-07-13,Belgique,Wallonie,,0,6
+2020-07-20,Belgique,Wallonie,Brabant Wallon,31,0
+2020-07-20,Belgique,Wallonie,Hainaut,145,0
+2020-07-20,Belgique,Wallonie,Liège,183,0
+2020-07-20,Belgique,Wallonie,Namur,47,0
+2020-07-20,Belgique,Wallonie,Province de Luxembourg,33,0
+2020-07-20,Belgique,Wallonie,,0,5
+2020-07-27,Belgique,Wallonie,Brabant Wallon,73,0
+2020-07-27,Belgique,Wallonie,Hainaut,241,0
+2020-07-27,Belgique,Wallonie,Liège,391,0
+2020-07-27,Belgique,Wallonie,Namur,111,0
+2020-07-27,Belgique,Wallonie,Province de Luxembourg,54,0
+2020-07-27,Belgique,Wallonie,,0,6
+2020-08-03,Belgique,Wallonie,Brabant Wallon,102,0
+2020-08-03,Belgique,Wallonie,Hainaut,295,0
+2020-08-03,Belgique,Wallonie,Liège,456,0
+2020-08-03,Belgique,Wallonie,Namur,144,0
+2020-08-03,Belgique,Wallonie,Province de Luxembourg,57,0
+2020-08-03,Belgique,Wallonie,,0,8
+2020-08-10,Belgique,Wallonie,Brabant Wallon,96,0
+2020-08-10,Belgique,Wallonie,Hainaut,244,0
+2020-08-10,Belgique,Wallonie,Liège,423,0
+2020-08-10,Belgique,Wallonie,Namur,153,0
+2020-08-10,Belgique,Wallonie,Province de Luxembourg,53,0
+2020-08-10,Belgique,Wallonie,,0,24
+2020-08-17,Belgique,Wallonie,Brabant Wallon,91,0
+2020-08-17,Belgique,Wallonie,Hainaut,325,0
+2020-08-17,Belgique,Wallonie,Liège,217,0
+2020-08-17,Belgique,Wallonie,Namur,121,0
+2020-08-17,Belgique,Wallonie,Province de Luxembourg,51,0
+2020-08-17,Belgique,Wallonie,,0,8
+2020-08-24,Belgique,Wallonie,Brabant Wallon,105,0
+2020-08-24,Belgique,Wallonie,Hainaut,259,0
+2020-08-24,Belgique,Wallonie,Liège,276,0
+2020-08-24,Belgique,Wallonie,Namur,98,0
+2020-08-24,Belgique,Wallonie,Province de Luxembourg,45,0
+2020-08-24,Belgique,Wallonie,,0,8
+2020-08-31,Belgique,Wallonie,Brabant Wallon,146,0
+2020-08-31,Belgique,Wallonie,Hainaut,314,0
+2020-08-31,Belgique,Wallonie,Liège,305,0
+2020-08-31,Belgique,Wallonie,Namur,104,0
+2020-08-31,Belgique,Wallonie,Province de Luxembourg,47,0
+2020-08-31,Belgique,Wallonie,,0,3
+2020-09-07,Belgique,Wallonie,Brabant Wallon,219,0
+2020-09-07,Belgique,Wallonie,Hainaut,513,0
+2020-09-07,Belgique,Wallonie,Liège,801,0
+2020-09-07,Belgique,Wallonie,Namur,146,0
+2020-09-07,Belgique,Wallonie,Province de Luxembourg,92,0
+2020-09-07,Belgique,Wallonie,,0,4
+2020-09-14,Belgique,Wallonie,Brabant Wallon,528,0
+2020-09-14,Belgique,Wallonie,Hainaut,966,0
+2020-09-14,Belgique,Wallonie,Liège,1451,0
+2020-09-14,Belgique,Wallonie,Namur,295,0
+2020-09-14,Belgique,Wallonie,Province de Luxembourg,169,0
+2020-09-14,Belgique,Wallonie,,0,7
+2020-09-21,Belgique,Wallonie,Brabant Wallon,440,0
+2020-09-21,Belgique,Wallonie,Hainaut,1244,0
+2020-09-21,Belgique,Wallonie,Liège,1449,0
+2020-09-21,Belgique,Wallonie,Namur,472,0
+2020-09-21,Belgique,Wallonie,Province de Luxembourg,221,0
+2020-09-21,Belgique,Wallonie,,0,13
+2020-09-28,Belgique,Wallonie,Brabant Wallon,1049,0
+2020-09-28,Belgique,Wallonie,Hainaut,2431,0
+2020-09-28,Belgique,Wallonie,Liège,2994,0
+2020-09-28,Belgique,Wallonie,Namur,1019,0
+2020-09-28,Belgique,Wallonie,Province de Luxembourg,475,0
+2020-09-28,Belgique,Wallonie,,0,30
+2020-10-05,Belgique,Wallonie,Brabant Wallon,2294,0
+2020-10-05,Belgique,Wallonie,Hainaut,5867,0
+2020-10-05,Belgique,Wallonie,Liège,6693,0
+2020-10-05,Belgique,Wallonie,Namur,2551,0
+2020-10-05,Belgique,Wallonie,Province de Luxembourg,1307,0
+2020-10-05,Belgique,Wallonie,,0,51
+2020-10-12,Belgique,Wallonie,Brabant Wallon,3562,0
+2020-10-12,Belgique,Wallonie,Hainaut,12530,0
+2020-10-12,Belgique,Wallonie,Liège,14253,0
+2020-10-12,Belgique,Wallonie,Namur,4683,0
+2020-10-12,Belgique,Wallonie,Province de Luxembourg,1922,0
+2020-10-12,Belgique,Wallonie,,0,120
+2020-10-19,Belgique,Wallonie,Brabant Wallon,4854,0
+2020-10-19,Belgique,Wallonie,Hainaut,18582,1
+2020-10-19,Belgique,Wallonie,Liège,18642,1
+2020-10-19,Belgique,Wallonie,Namur,6242,0
+2020-10-19,Belgique,Wallonie,Province de Luxembourg,3022,0
+2020-10-19,Belgique,Wallonie,,0,262
+2020-10-26,Belgique,Wallonie,Brabant Wallon,3688,0
+2020-10-26,Belgique,Wallonie,Hainaut,19077,0
+2020-10-26,Belgique,Wallonie,Liège,18404,0
+2020-10-26,Belgique,Wallonie,Namur,6529,0
+2020-10-26,Belgique,Wallonie,Province de Luxembourg,3035,0
+2020-10-26,Belgique,Wallonie,,0,547
+2020-11-02,Belgique,Wallonie,Brabant Wallon,1859,0
+2020-11-02,Belgique,Wallonie,Hainaut,10621,0
+2020-11-02,Belgique,Wallonie,Liège,8872,0
+2020-11-02,Belgique,Wallonie,Namur,3370,0
+2020-11-02,Belgique,Wallonie,Province de Luxembourg,1721,0
+2020-11-02,Belgique,Wallonie,,0,653
+2020-11-09,Belgique,Wallonie,Brabant Wallon,1284,0
+2020-11-09,Belgique,Wallonie,Hainaut,6466,0
+2020-11-09,Belgique,Wallonie,Liège,4492,0
+2020-11-09,Belgique,Wallonie,Namur,2000,0
+2020-11-09,Belgique,Wallonie,Province de Luxembourg,1153,0
+2020-11-09,Belgique,Wallonie,,0,605
+2020-11-16,Belgique,Wallonie,Brabant Wallon,693,0
+2020-11-16,Belgique,Wallonie,Hainaut,3814,0
+2020-11-16,Belgique,Wallonie,Liège,2583,0
+2020-11-16,Belgique,Wallonie,Namur,1111,0
+2020-11-16,Belgique,Wallonie,Province de Luxembourg,704,0
+2020-11-16,Belgique,Wallonie,,0,453
+2020-11-23,Belgique,Wallonie,Brabant Wallon,472,0
+2020-11-23,Belgique,Wallonie,Hainaut,2326,0
+2020-11-23,Belgique,Wallonie,Liège,1567,0
+2020-11-23,Belgique,Wallonie,Namur,789,0
+2020-11-23,Belgique,Wallonie,Province de Luxembourg,569,0
+2020-11-23,Belgique,Wallonie,,0,297
+2020-11-30,Belgique,Wallonie,Brabant Wallon,433,0
+2020-11-30,Belgique,Wallonie,Hainaut,2032,0
+2020-11-30,Belgique,Wallonie,Liège,1200,0
+2020-11-30,Belgique,Wallonie,Namur,614,0
+2020-11-30,Belgique,Wallonie,Province de Luxembourg,574,0
+2020-11-30,Belgique,Wallonie,,0,222
+2020-12-07,Belgique,Wallonie,Brabant Wallon,447,0
+2020-12-07,Belgique,Wallonie,Hainaut,2318,0
+2020-12-07,Belgique,Wallonie,Liège,1197,0
+2020-12-07,Belgique,Wallonie,Namur,750,0
+2020-12-07,Belgique,Wallonie,Province de Luxembourg,508,0
+2020-12-07,Belgique,Wallonie,,0,202
+2020-12-14,Belgique,Wallonie,Brabant Wallon,483,0
+2020-12-14,Belgique,Wallonie,Hainaut,2103,0
+2020-12-14,Belgique,Wallonie,Liège,1295,0
+2020-12-14,Belgique,Wallonie,Namur,839,0
+2020-12-14,Belgique,Wallonie,Province de Luxembourg,497,0
+2020-12-14,Belgique,Wallonie,,0,174
+2020-12-21,Belgique,Wallonie,Brabant Wallon,343,0
+2020-12-21,Belgique,Wallonie,Hainaut,1471,0
+2020-12-21,Belgique,Wallonie,Liège,944,0
+2020-12-21,Belgique,Wallonie,Namur,569,0
+2020-12-21,Belgique,Wallonie,Province de Luxembourg,346,0
+2020-12-21,Belgique,Wallonie,,0,145
+2020-12-28,Belgique,Wallonie,Brabant Wallon,278,0
+2020-12-28,Belgique,Wallonie,Hainaut,1003,0
+2020-12-28,Belgique,Wallonie,Liège,794,0
+2020-12-28,Belgique,Wallonie,Namur,344,0
+2020-12-28,Belgique,Wallonie,Province de Luxembourg,262,0
+2020-12-28,Belgique,Wallonie,,0,79
+2021-01-04,Belgique,Wallonie,Brabant Wallon,630,0
+2021-01-04,Belgique,Wallonie,Hainaut,1723,0
+2021-01-04,Belgique,Wallonie,Liège,1252,0
+2021-01-04,Belgique,Wallonie,Namur,647,0
+2021-01-04,Belgique,Wallonie,Province de Luxembourg,468,0
+2021-01-04,Belgique,Wallonie,,0,162
+2021-01-11,Belgique,Wallonie,Brabant Wallon,480,0
+2021-01-11,Belgique,Wallonie,Hainaut,1581,0
+2021-01-11,Belgique,Wallonie,Liège,990,0
+2021-01-11,Belgique,Wallonie,Namur,460,0
+2021-01-11,Belgique,Wallonie,Province de Luxembourg,317,0
+2021-01-11,Belgique,Wallonie,,0,89
+2021-01-18,Belgique,Wallonie,Brabant Wallon,524,0
+2021-01-18,Belgique,Wallonie,Hainaut,1663,0
+2021-01-18,Belgique,Wallonie,Liège,1078,0
+2021-01-18,Belgique,Wallonie,Namur,470,0
+2021-01-18,Belgique,Wallonie,Province de Luxembourg,362,0
+2021-01-18,Belgique,Wallonie,,0,77
+2021-01-25,Belgique,Wallonie,Brabant Wallon,754,0
+2021-01-25,Belgique,Wallonie,Hainaut,2137,0
+2021-01-25,Belgique,Wallonie,Liège,1240,0
+2021-01-25,Belgique,Wallonie,Namur,574,0
+2021-01-25,Belgique,Wallonie,Province de Luxembourg,471,0
+2021-01-25,Belgique,Wallonie,,0,86
+2021-02-01,Belgique,Wallonie,Brabant Wallon,661,0
+2021-02-01,Belgique,Wallonie,Hainaut,1921,0
+2021-02-01,Belgique,Wallonie,Liège,1062,0
+2021-02-01,Belgique,Wallonie,Namur,698,0
+2021-02-01,Belgique,Wallonie,Province de Luxembourg,417,0
+2021-02-01,Belgique,Wallonie,,0,82
+2021-02-08,Belgique,Wallonie,Brabant Wallon,490,0
+2021-02-08,Belgique,Wallonie,Hainaut,1461,0
+2021-02-08,Belgique,Wallonie,Liège,887,0
+2021-02-08,Belgique,Wallonie,Namur,544,0
+2021-02-08,Belgique,Wallonie,Province de Luxembourg,421,0
+2021-02-08,Belgique,Wallonie,,0,77
+2021-02-15,Belgique,Wallonie,Brabant Wallon,631,0
+2021-02-15,Belgique,Wallonie,Hainaut,1609,0
+2021-02-15,Belgique,Wallonie,Liège,955,0
+2021-02-15,Belgique,Wallonie,Namur,761,0
+2021-02-15,Belgique,Wallonie,Province de Luxembourg,523,0
+2021-02-15,Belgique,Wallonie,,0,63
+2021-02-22,Belgique,Wallonie,Brabant Wallon,649,0
+2021-02-22,Belgique,Wallonie,Hainaut,1960,0
+2021-02-22,Belgique,Wallonie,Liège,920,0
+2021-02-22,Belgique,Wallonie,Namur,736,0
+2021-02-22,Belgique,Wallonie,Province de Luxembourg,433,0
+2021-02-22,Belgique,Wallonie,,0,48
+2020-02-24,Deutschland,Rheinland-Pfalz,Ahrweiler,1,0
+2020-02-24,Deutschland,Rheinland-Pfalz,Alzey-Worms,1,0
+2020-02-24,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,1,0
+2020-02-24,Deutschland,Rheinland-Pfalz,Bad Kreuznach,1,0
+2020-02-24,Deutschland,Rheinland-Pfalz,Birkenfeld,1,0
+2020-02-24,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,2,0
+2020-02-24,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),2,0
+2020-02-24,Deutschland,Rheinland-Pfalz,Kusel,1,0
+2020-02-24,Deutschland,Rheinland-Pfalz,Ludwigshafen,1,0
+2020-02-24,Deutschland,Rheinland-Pfalz,Mainz,5,0
+2020-02-24,Deutschland,Rheinland-Pfalz,Mainz-Bingen,1,0
+2020-02-24,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,1,0
+2020-02-24,Deutschland,Rheinland-Pfalz,Neuwied,1,0
+2020-02-24,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,1,0
+2020-02-24,Deutschland,Rheinland-Pfalz,Trier,1,0
+2020-02-24,Deutschland,Rheinland-Pfalz,Trier-Saarburg,1,0
+2020-02-24,Deutschland,Rheinland-Pfalz,Vulkaneifel,1,0
+2020-02-24,Deutschland,Rheinland-Pfalz,Westerwaldkreis,1,0
+2020-02-24,Deutschland,Saarland,Neunkirchen,1,1
+2020-02-24,Deutschland,Saarland,Saarlouis,5,0
+2020-02-24,Deutschland,Saarland,Saarpfalz-Kreis,3,0
+2020-02-24,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,3,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Ahrweiler,2,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Alzey-Worms,4,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,12,1
+2020-03-02,Deutschland,Rheinland-Pfalz,Bad Kreuznach,1,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,5,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,4,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Cochem-Zell,5,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Frankenthal,1,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Germersheim,3,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Kaiserslautern,2,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),2,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Koblenz,7,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Kusel,7,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Ludwigshafen,4,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Mainz,8,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Mainz-Bingen,4,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,5,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,1,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,3,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,7,2
+2020-03-02,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,1,0
+2020-03-02,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,1,0
+2020-03-02,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,1,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Trier,4,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Trier-Saarburg,3,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Westerwaldkreis,6,0
+2020-03-02,Deutschland,Rheinland-Pfalz,Worms,2,0
+2020-03-02,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,1,0
+2020-03-02,Deutschland,Saarland,Merzig-Wadern,2,0
+2020-03-02,Deutschland,Saarland,Neunkirchen,7,0
+2020-03-02,Deutschland,Saarland,Saarlouis,7,0
+2020-03-02,Deutschland,Saarland,Saarpfalz-Kreis,5,0
+2020-03-02,Deutschland,Saarland,Sankt Wendel,2,0
+2020-03-02,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,14,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Ahrweiler,22,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Altenkirchen,24,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Alzey-Worms,35,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,53,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Bad Kreuznach,12,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,12,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Birkenfeld,9,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,21,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Cochem-Zell,41,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Donnersbergkreis,2,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Frankenthal,4,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Germersheim,25,1
+2020-03-09,Deutschland,Rheinland-Pfalz,Kaiserslautern,22,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),13,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Koblenz,21,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Kusel,24,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,5,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Ludwigshafen,18,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Mainz,62,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Mainz-Bingen,50,1
+2020-03-09,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,45,1
+2020-03-09,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,12,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Neuwied,19,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Pirmasens,3,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,32,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,26,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,20,0
+2020-03-09,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,30,0
+2020-03-09,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,11,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Speyer,8,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Trier,13,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Trier-Saarburg,24,1
+2020-03-09,Deutschland,Rheinland-Pfalz,Vulkaneifel,14,0
+2020-03-09,Deutschland,Rheinland-Pfalz,Westerwaldkreis,66,1
+2020-03-09,Deutschland,Rheinland-Pfalz,Worms,25,0
+2020-03-09,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,2,0
+2020-03-09,Deutschland,Saarland,Merzig-Wadern,6,0
+2020-03-09,Deutschland,Saarland,Neunkirchen,12,0
+2020-03-09,Deutschland,Saarland,Saarlouis,47,0
+2020-03-09,Deutschland,Saarland,Saarpfalz-Kreis,31,1
+2020-03-09,Deutschland,Saarland,Sankt Wendel,38,0
+2020-03-09,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,83,1
+2020-03-16,Deutschland,Rheinland-Pfalz,Ahrweiler,36,0
+2020-03-16,Deutschland,Rheinland-Pfalz,Altenkirchen,19,0
+2020-03-16,Deutschland,Rheinland-Pfalz,Alzey-Worms,42,1
+2020-03-16,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,88,3
+2020-03-16,Deutschland,Rheinland-Pfalz,Bad Kreuznach,34,0
+2020-03-16,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,37,0
+2020-03-16,Deutschland,Rheinland-Pfalz,Birkenfeld,20,1
+2020-03-16,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,35,1
+2020-03-16,Deutschland,Rheinland-Pfalz,Cochem-Zell,42,0
+2020-03-16,Deutschland,Rheinland-Pfalz,Donnersbergkreis,29,1
+2020-03-16,Deutschland,Rheinland-Pfalz,Frankenthal,13,1
+2020-03-16,Deutschland,Rheinland-Pfalz,Germersheim,36,0
+2020-03-16,Deutschland,Rheinland-Pfalz,Kaiserslautern,30,1
+2020-03-16,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),34,0
+2020-03-16,Deutschland,Rheinland-Pfalz,Koblenz,76,3
+2020-03-16,Deutschland,Rheinland-Pfalz,Kusel,20,0
+2020-03-16,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,21,0
+2020-03-16,Deutschland,Rheinland-Pfalz,Ludwigshafen,42,0
+2020-03-16,Deutschland,Rheinland-Pfalz,Mainz,80,2
+2020-03-16,Deutschland,Rheinland-Pfalz,Mainz-Bingen,64,1
+2020-03-16,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,120,2
+2020-03-16,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,38,1
+2020-03-16,Deutschland,Rheinland-Pfalz,Neuwied,52,2
+2020-03-16,Deutschland,Rheinland-Pfalz,Pirmasens,12,0
+2020-03-16,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,48,0
+2020-03-16,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,43,2
+2020-03-16,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,54,1
+2020-03-16,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,26,0
+2020-03-16,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,23,0
+2020-03-16,Deutschland,Rheinland-Pfalz,Speyer,11,0
+2020-03-16,Deutschland,Rheinland-Pfalz,Trier,33,0
+2020-03-16,Deutschland,Rheinland-Pfalz,Trier-Saarburg,47,3
+2020-03-16,Deutschland,Rheinland-Pfalz,Vulkaneifel,26,0
+2020-03-16,Deutschland,Rheinland-Pfalz,Westerwaldkreis,71,1
+2020-03-16,Deutschland,Rheinland-Pfalz,Worms,41,1
+2020-03-16,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,8,0
+2020-03-16,Deutschland,Saarland,Merzig-Wadern,32,0
+2020-03-16,Deutschland,Saarland,Neunkirchen,41,0
+2020-03-16,Deutschland,Saarland,Saarlouis,71,3
+2020-03-16,Deutschland,Saarland,Saarpfalz-Kreis,78,2
+2020-03-16,Deutschland,Saarland,Sankt Wendel,31,1
+2020-03-16,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,194,8
+2020-03-23,Deutschland,Rheinland-Pfalz,Ahrweiler,24,1
+2020-03-23,Deutschland,Rheinland-Pfalz,Altenkirchen,24,1
+2020-03-23,Deutschland,Rheinland-Pfalz,Alzey-Worms,18,0
+2020-03-23,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,40,1
+2020-03-23,Deutschland,Rheinland-Pfalz,Bad Kreuznach,33,0
+2020-03-23,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,26,1
+2020-03-23,Deutschland,Rheinland-Pfalz,Birkenfeld,24,0
+2020-03-23,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,45,2
+2020-03-23,Deutschland,Rheinland-Pfalz,Cochem-Zell,21,1
+2020-03-23,Deutschland,Rheinland-Pfalz,Donnersbergkreis,25,0
+2020-03-23,Deutschland,Rheinland-Pfalz,Frankenthal,7,0
+2020-03-23,Deutschland,Rheinland-Pfalz,Germersheim,31,1
+2020-03-23,Deutschland,Rheinland-Pfalz,Kaiserslautern,21,0
+2020-03-23,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),22,2
+2020-03-23,Deutschland,Rheinland-Pfalz,Koblenz,52,6
+2020-03-23,Deutschland,Rheinland-Pfalz,Kusel,6,0
+2020-03-23,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,17,1
+2020-03-23,Deutschland,Rheinland-Pfalz,Ludwigshafen,43,1
+2020-03-23,Deutschland,Rheinland-Pfalz,Mainz,100,3
+2020-03-23,Deutschland,Rheinland-Pfalz,Mainz-Bingen,74,3
+2020-03-23,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,64,2
+2020-03-23,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,20,0
+2020-03-23,Deutschland,Rheinland-Pfalz,Neuwied,49,0
+2020-03-23,Deutschland,Rheinland-Pfalz,Pirmasens,4,0
+2020-03-23,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,30,0
+2020-03-23,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,38,2
+2020-03-23,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,44,1
+2020-03-23,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,39,1
+2020-03-23,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,24,2
+2020-03-23,Deutschland,Rheinland-Pfalz,Speyer,9,0
+2020-03-23,Deutschland,Rheinland-Pfalz,Trier,25,0
+2020-03-23,Deutschland,Rheinland-Pfalz,Trier-Saarburg,39,0
+2020-03-23,Deutschland,Rheinland-Pfalz,Vulkaneifel,16,0
+2020-03-23,Deutschland,Rheinland-Pfalz,Westerwaldkreis,51,5
+2020-03-23,Deutschland,Rheinland-Pfalz,Worms,28,4
+2020-03-23,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,11,0
+2020-03-23,Deutschland,Saarland,Merzig-Wadern,23,0
+2020-03-23,Deutschland,Saarland,Neunkirchen,50,2
+2020-03-23,Deutschland,Saarland,Saarlouis,77,3
+2020-03-23,Deutschland,Saarland,Saarpfalz-Kreis,56,1
+2020-03-23,Deutschland,Saarland,Sankt Wendel,32,1
+2020-03-23,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,139,16
+2020-03-30,Deutschland,Rheinland-Pfalz,Ahrweiler,14,0
+2020-03-30,Deutschland,Rheinland-Pfalz,Altenkirchen,24,5
+2020-03-30,Deutschland,Rheinland-Pfalz,Alzey-Worms,16,1
+2020-03-30,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,37,2
+2020-03-30,Deutschland,Rheinland-Pfalz,Bad Kreuznach,52,2
+2020-03-30,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,26,1
+2020-03-30,Deutschland,Rheinland-Pfalz,Birkenfeld,12,1
+2020-03-30,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,26,1
+2020-03-30,Deutschland,Rheinland-Pfalz,Cochem-Zell,10,0
+2020-03-30,Deutschland,Rheinland-Pfalz,Donnersbergkreis,14,0
+2020-03-30,Deutschland,Rheinland-Pfalz,Frankenthal,5,1
+2020-03-30,Deutschland,Rheinland-Pfalz,Germersheim,16,1
+2020-03-30,Deutschland,Rheinland-Pfalz,Kaiserslautern,4,0
+2020-03-30,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),14,0
+2020-03-30,Deutschland,Rheinland-Pfalz,Koblenz,40,6
+2020-03-30,Deutschland,Rheinland-Pfalz,Kusel,12,0
+2020-03-30,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,12,0
+2020-03-30,Deutschland,Rheinland-Pfalz,Ludwigshafen,53,0
+2020-03-30,Deutschland,Rheinland-Pfalz,Mainz,69,3
+2020-03-30,Deutschland,Rheinland-Pfalz,Mainz-Bingen,60,5
+2020-03-30,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,45,5
+2020-03-30,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,17,0
+2020-03-30,Deutschland,Rheinland-Pfalz,Neuwied,35,1
+2020-03-30,Deutschland,Rheinland-Pfalz,Pirmasens,6,0
+2020-03-30,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,20,1
+2020-03-30,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,19,0
+2020-03-30,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,38,0
+2020-03-30,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,24,2
+2020-03-30,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,31,1
+2020-03-30,Deutschland,Rheinland-Pfalz,Speyer,17,0
+2020-03-30,Deutschland,Rheinland-Pfalz,Trier,13,1
+2020-03-30,Deutschland,Rheinland-Pfalz,Trier-Saarburg,21,0
+2020-03-30,Deutschland,Rheinland-Pfalz,Vulkaneifel,26,1
+2020-03-30,Deutschland,Rheinland-Pfalz,Westerwaldkreis,39,2
+2020-03-30,Deutschland,Rheinland-Pfalz,Worms,31,1
+2020-03-30,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,10,0
+2020-03-30,Deutschland,Saarland,Merzig-Wadern,66,2
+2020-03-30,Deutschland,Saarland,Neunkirchen,50,2
+2020-03-30,Deutschland,Saarland,Saarlouis,134,9
+2020-03-30,Deutschland,Saarland,Saarpfalz-Kreis,60,2
+2020-03-30,Deutschland,Saarland,Sankt Wendel,20,0
+2020-03-30,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,284,40
+2020-04-06,Deutschland,Rheinland-Pfalz,Ahrweiler,17,0
+2020-04-06,Deutschland,Rheinland-Pfalz,Altenkirchen,25,2
+2020-04-06,Deutschland,Rheinland-Pfalz,Alzey-Worms,38,3
+2020-04-06,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,46,3
+2020-04-06,Deutschland,Rheinland-Pfalz,Bad Kreuznach,14,0
+2020-04-06,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,14,0
+2020-04-06,Deutschland,Rheinland-Pfalz,Birkenfeld,8,0
+2020-04-06,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,16,0
+2020-04-06,Deutschland,Rheinland-Pfalz,Cochem-Zell,5,0
+2020-04-06,Deutschland,Rheinland-Pfalz,Donnersbergkreis,17,1
+2020-04-06,Deutschland,Rheinland-Pfalz,Frankenthal,2,0
+2020-04-06,Deutschland,Rheinland-Pfalz,Germersheim,14,0
+2020-04-06,Deutschland,Rheinland-Pfalz,Kaiserslautern,15,0
+2020-04-06,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),10,0
+2020-04-06,Deutschland,Rheinland-Pfalz,Koblenz,31,2
+2020-04-06,Deutschland,Rheinland-Pfalz,Kusel,15,0
+2020-04-06,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,2,0
+2020-04-06,Deutschland,Rheinland-Pfalz,Ludwigshafen,48,1
+2020-04-06,Deutschland,Rheinland-Pfalz,Mainz,61,8
+2020-04-06,Deutschland,Rheinland-Pfalz,Mainz-Bingen,53,5
+2020-04-06,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,38,4
+2020-04-06,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,8,1
+2020-04-06,Deutschland,Rheinland-Pfalz,Neuwied,34,1
+2020-04-06,Deutschland,Rheinland-Pfalz,Pirmasens,2,0
+2020-04-06,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,10,2
+2020-04-06,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,15,0
+2020-04-06,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,27,2
+2020-04-06,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,11,0
+2020-04-06,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,9,0
+2020-04-06,Deutschland,Rheinland-Pfalz,Speyer,10,1
+2020-04-06,Deutschland,Rheinland-Pfalz,Trier,4,0
+2020-04-06,Deutschland,Rheinland-Pfalz,Trier-Saarburg,26,1
+2020-04-06,Deutschland,Rheinland-Pfalz,Vulkaneifel,12,0
+2020-04-06,Deutschland,Rheinland-Pfalz,Westerwaldkreis,59,12
+2020-04-06,Deutschland,Rheinland-Pfalz,Worms,19,1
+2020-04-06,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,3,1
+2020-04-06,Deutschland,Saarland,Merzig-Wadern,38,0
+2020-04-06,Deutschland,Saarland,Neunkirchen,35,2
+2020-04-06,Deutschland,Saarland,Saarlouis,95,5
+2020-04-06,Deutschland,Saarland,Saarpfalz-Kreis,29,1
+2020-04-06,Deutschland,Saarland,Sankt Wendel,23,1
+2020-04-06,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,264,26
+2020-04-13,Deutschland,Rheinland-Pfalz,Ahrweiler,2,0
+2020-04-13,Deutschland,Rheinland-Pfalz,Altenkirchen,20,3
+2020-04-13,Deutschland,Rheinland-Pfalz,Alzey-Worms,26,0
+2020-04-13,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,27,1
+2020-04-13,Deutschland,Rheinland-Pfalz,Bad Kreuznach,20,1
+2020-04-13,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,9,0
+2020-04-13,Deutschland,Rheinland-Pfalz,Birkenfeld,6,0
+2020-04-13,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,13,0
+2020-04-13,Deutschland,Rheinland-Pfalz,Cochem-Zell,2,0
+2020-04-13,Deutschland,Rheinland-Pfalz,Donnersbergkreis,18,1
+2020-04-13,Deutschland,Rheinland-Pfalz,Frankenthal,5,0
+2020-04-13,Deutschland,Rheinland-Pfalz,Germersheim,11,1
+2020-04-13,Deutschland,Rheinland-Pfalz,Kaiserslautern,2,0
+2020-04-13,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),17,3
+2020-04-13,Deutschland,Rheinland-Pfalz,Koblenz,21,1
+2020-04-13,Deutschland,Rheinland-Pfalz,Kusel,2,1
+2020-04-13,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,4,0
+2020-04-13,Deutschland,Rheinland-Pfalz,Ludwigshafen,49,0
+2020-04-13,Deutschland,Rheinland-Pfalz,Mainz,63,6
+2020-04-13,Deutschland,Rheinland-Pfalz,Mainz-Bingen,43,2
+2020-04-13,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,11,1
+2020-04-13,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,3,0
+2020-04-13,Deutschland,Rheinland-Pfalz,Neuwied,15,0
+2020-04-13,Deutschland,Rheinland-Pfalz,Pirmasens,3,0
+2020-04-13,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,13,1
+2020-04-13,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,7,0
+2020-04-13,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,14,0
+2020-04-13,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,2,0
+2020-04-13,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,3,0
+2020-04-13,Deutschland,Rheinland-Pfalz,Speyer,10,0
+2020-04-13,Deutschland,Rheinland-Pfalz,Trier,3,0
+2020-04-13,Deutschland,Rheinland-Pfalz,Trier-Saarburg,9,1
+2020-04-13,Deutschland,Rheinland-Pfalz,Vulkaneifel,8,1
+2020-04-13,Deutschland,Rheinland-Pfalz,Westerwaldkreis,29,1
+2020-04-13,Deutschland,Rheinland-Pfalz,Worms,15,0
+2020-04-13,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,2,0
+2020-04-13,Deutschland,Saarland,Merzig-Wadern,15,0
+2020-04-13,Deutschland,Saarland,Neunkirchen,26,2
+2020-04-13,Deutschland,Saarland,Saarlouis,34,1
+2020-04-13,Deutschland,Saarland,Saarpfalz-Kreis,11,3
+2020-04-13,Deutschland,Saarland,Sankt Wendel,5,0
+2020-04-13,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,75,10
+2020-04-20,Deutschland,Rheinland-Pfalz,Ahrweiler,5,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Altenkirchen,14,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Alzey-Worms,33,2
+2020-04-20,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,10,1
+2020-04-20,Deutschland,Rheinland-Pfalz,Bad Kreuznach,19,2
+2020-04-20,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,2,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Birkenfeld,5,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,8,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Donnersbergkreis,9,2
+2020-04-20,Deutschland,Rheinland-Pfalz,Frankenthal,4,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Germersheim,4,1
+2020-04-20,Deutschland,Rheinland-Pfalz,Kaiserslautern,1,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),2,1
+2020-04-20,Deutschland,Rheinland-Pfalz,Koblenz,11,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Kusel,1,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,3,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Ludwigshafen,13,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Mainz,53,3
+2020-04-20,Deutschland,Rheinland-Pfalz,Mainz-Bingen,26,6
+2020-04-20,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,5,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,1,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Neuwied,3,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,5,2
+2020-04-20,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,6,0
+2020-04-20,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,2,0
+2020-04-20,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,1,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Speyer,10,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Trier,2,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Trier-Saarburg,8,1
+2020-04-20,Deutschland,Rheinland-Pfalz,Vulkaneifel,8,3
+2020-04-20,Deutschland,Rheinland-Pfalz,Westerwaldkreis,7,0
+2020-04-20,Deutschland,Rheinland-Pfalz,Worms,19,0
+2020-04-20,Deutschland,Saarland,Merzig-Wadern,8,0
+2020-04-20,Deutschland,Saarland,Neunkirchen,6,0
+2020-04-20,Deutschland,Saarland,Saarlouis,37,0
+2020-04-20,Deutschland,Saarland,Saarpfalz-Kreis,12,4
+2020-04-20,Deutschland,Saarland,Sankt Wendel,2,0
+2020-04-20,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,76,12
+2020-04-27,Deutschland,Rheinland-Pfalz,Ahrweiler,18,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Altenkirchen,3,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Alzey-Worms,31,5
+2020-04-27,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,2,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Bad Kreuznach,1,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,3,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Birkenfeld,1,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,6,1
+2020-04-27,Deutschland,Rheinland-Pfalz,Cochem-Zell,1,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Donnersbergkreis,3,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Frankenthal,1,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),15,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Koblenz,3,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Kusel,2,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Ludwigshafen,13,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Mainz,23,1
+2020-04-27,Deutschland,Rheinland-Pfalz,Mainz-Bingen,16,1
+2020-04-27,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,5,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,1,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Neuwied,2,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,1,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,5,0
+2020-04-27,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,3,0
+2020-04-27,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,1,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Speyer,8,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Trier,2,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Trier-Saarburg,12,2
+2020-04-27,Deutschland,Rheinland-Pfalz,Vulkaneifel,5,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Westerwaldkreis,7,0
+2020-04-27,Deutschland,Rheinland-Pfalz,Worms,9,0
+2020-04-27,Deutschland,Saarland,Merzig-Wadern,4,0
+2020-04-27,Deutschland,Saarland,Neunkirchen,13,0
+2020-04-27,Deutschland,Saarland,Saarlouis,12,0
+2020-04-27,Deutschland,Saarland,Saarpfalz-Kreis,13,1
+2020-04-27,Deutschland,Saarland,Sankt Wendel,3,1
+2020-04-27,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,30,1
+2020-05-04,Deutschland,Rheinland-Pfalz,Ahrweiler,12,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Altenkirchen,4,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Alzey-Worms,10,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,6,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Bad Kreuznach,6,2
+2020-05-04,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,14,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Birkenfeld,1,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,3,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Cochem-Zell,1,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Donnersbergkreis,9,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Germersheim,2,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Kaiserslautern,3,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),9,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Koblenz,2,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,1,1
+2020-05-04,Deutschland,Rheinland-Pfalz,Ludwigshafen,12,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Mainz,32,1
+2020-05-04,Deutschland,Rheinland-Pfalz,Mainz-Bingen,13,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,1,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,1,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,2,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,6,0
+2020-05-04,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,3,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Speyer,1,1
+2020-05-04,Deutschland,Rheinland-Pfalz,Trier,1,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Trier-Saarburg,5,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Vulkaneifel,2,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Westerwaldkreis,11,0
+2020-05-04,Deutschland,Rheinland-Pfalz,Worms,10,0
+2020-05-04,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,1,0
+2020-05-04,Deutschland,Saarland,Merzig-Wadern,4,0
+2020-05-04,Deutschland,Saarland,Neunkirchen,6,0
+2020-05-04,Deutschland,Saarland,Saarlouis,9,2
+2020-05-04,Deutschland,Saarland,Saarpfalz-Kreis,5,1
+2020-05-04,Deutschland,Saarland,Sankt Wendel,6,1
+2020-05-04,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,5,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Ahrweiler,23,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Altenkirchen,2,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Alzey-Worms,10,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,2,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Bad Kreuznach,3,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,5,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,4,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Donnersbergkreis,6,1
+2020-05-11,Deutschland,Rheinland-Pfalz,Germersheim,1,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Kaiserslautern,1,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),13,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Kusel,1,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Ludwigshafen,12,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Mainz,20,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Mainz-Bingen,15,1
+2020-05-11,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,1,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Pirmasens,1,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,11,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Speyer,2,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Trier,1,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Trier-Saarburg,1,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Westerwaldkreis,8,0
+2020-05-11,Deutschland,Rheinland-Pfalz,Worms,5,0
+2020-05-11,Deutschland,Saarland,Merzig-Wadern,3,0
+2020-05-11,Deutschland,Saarland,Neunkirchen,10,0
+2020-05-11,Deutschland,Saarland,Saarlouis,5,0
+2020-05-11,Deutschland,Saarland,Saarpfalz-Kreis,2,0
+2020-05-11,Deutschland,Saarland,Sankt Wendel,2,0
+2020-05-11,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,9,1
+2020-05-18,Deutschland,Rheinland-Pfalz,Ahrweiler,10,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Altenkirchen,4,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Alzey-Worms,3,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,2,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Birkenfeld,2,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,1,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Cochem-Zell,1,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Donnersbergkreis,2,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Frankenthal,1,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Germersheim,3,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Kaiserslautern,1,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),16,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Ludwigshafen,4,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Mainz,13,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Mainz-Bingen,3,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Neuwied,1,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,2,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Westerwaldkreis,1,0
+2020-05-18,Deutschland,Rheinland-Pfalz,Worms,7,0
+2020-05-18,Deutschland,Saarland,Merzig-Wadern,2,0
+2020-05-18,Deutschland,Saarland,Saarlouis,7,0
+2020-05-18,Deutschland,Saarland,Saarpfalz-Kreis,1,1
+2020-05-18,Deutschland,Saarland,Sankt Wendel,1,0
+2020-05-18,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,8,0
+2020-05-25,Deutschland,Rheinland-Pfalz,Ahrweiler,4,0
+2020-05-25,Deutschland,Rheinland-Pfalz,Altenkirchen,2,0
+2020-05-25,Deutschland,Rheinland-Pfalz,Alzey-Worms,3,0
+2020-05-25,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,7,0
+2020-05-25,Deutschland,Rheinland-Pfalz,Birkenfeld,2,1
+2020-05-25,Deutschland,Rheinland-Pfalz,Cochem-Zell,1,0
+2020-05-25,Deutschland,Rheinland-Pfalz,Donnersbergkreis,2,0
+2020-05-25,Deutschland,Rheinland-Pfalz,Frankenthal,1,0
+2020-05-25,Deutschland,Rheinland-Pfalz,Ludwigshafen,7,0
+2020-05-25,Deutschland,Rheinland-Pfalz,Mainz,47,1
+2020-05-25,Deutschland,Rheinland-Pfalz,Mainz-Bingen,5,0
+2020-05-25,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,2,1
+2020-05-25,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,1,0
+2020-05-25,Deutschland,Rheinland-Pfalz,Neuwied,3,0
+2020-05-25,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,1,0
+2020-05-25,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,6,0
+2020-05-25,Deutschland,Rheinland-Pfalz,Speyer,2,0
+2020-05-25,Deutschland,Rheinland-Pfalz,Trier,1,0
+2020-05-25,Deutschland,Rheinland-Pfalz,Westerwaldkreis,3,0
+2020-05-25,Deutschland,Rheinland-Pfalz,Worms,7,0
+2020-05-25,Deutschland,Saarland,Merzig-Wadern,3,0
+2020-05-25,Deutschland,Saarland,Neunkirchen,2,1
+2020-05-25,Deutschland,Saarland,Saarlouis,2,0
+2020-05-25,Deutschland,Saarland,Saarpfalz-Kreis,6,1
+2020-05-25,Deutschland,Saarland,Sankt Wendel,1,0
+2020-05-25,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,12,1
+2020-06-01,Deutschland,Rheinland-Pfalz,Ahrweiler,5,0
+2020-06-01,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,2,0
+2020-06-01,Deutschland,Rheinland-Pfalz,Bad Kreuznach,3,0
+2020-06-01,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,4,0
+2020-06-01,Deutschland,Rheinland-Pfalz,Cochem-Zell,3,0
+2020-06-01,Deutschland,Rheinland-Pfalz,Kaiserslautern,2,0
+2020-06-01,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),15,0
+2020-06-01,Deutschland,Rheinland-Pfalz,Koblenz,1,0
+2020-06-01,Deutschland,Rheinland-Pfalz,Ludwigshafen,9,0
+2020-06-01,Deutschland,Rheinland-Pfalz,Mainz,19,0
+2020-06-01,Deutschland,Rheinland-Pfalz,Mainz-Bingen,2,0
+2020-06-01,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,4,0
+2020-06-01,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,1,0
+2020-06-01,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,10,0
+2020-06-01,Deutschland,Rheinland-Pfalz,Speyer,1,0
+2020-06-01,Deutschland,Rheinland-Pfalz,Trier-Saarburg,2,0
+2020-06-01,Deutschland,Rheinland-Pfalz,Westerwaldkreis,3,0
+2020-06-01,Deutschland,Saarland,Merzig-Wadern,5,0
+2020-06-01,Deutschland,Saarland,Neunkirchen,7,1
+2020-06-01,Deutschland,Saarland,Saarlouis,6,0
+2020-06-01,Deutschland,Saarland,Saarpfalz-Kreis,1,0
+2020-06-01,Deutschland,Saarland,Sankt Wendel,1,0
+2020-06-01,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,3,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Ahrweiler,2,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Altenkirchen,2,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Alzey-Worms,1,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,3,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,3,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,2,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Cochem-Zell,2,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Donnersbergkreis,1,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Frankenthal,1,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Germersheim,3,1
+2020-06-08,Deutschland,Rheinland-Pfalz,Kaiserslautern,1,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),2,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Koblenz,1,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Ludwigshafen,2,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Mainz,14,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Mainz-Bingen,1,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,2,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Neuwied,1,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,4,0
+2020-06-08,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,3,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Speyer,6,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Trier,1,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Trier-Saarburg,2,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Westerwaldkreis,3,0
+2020-06-08,Deutschland,Rheinland-Pfalz,Worms,2,0
+2020-06-08,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,1,0
+2020-06-08,Deutschland,Saarland,Merzig-Wadern,3,0
+2020-06-08,Deutschland,Saarland,Neunkirchen,6,0
+2020-06-08,Deutschland,Saarland,Saarlouis,4,0
+2020-06-08,Deutschland,Saarland,Saarpfalz-Kreis,2,0
+2020-06-08,Deutschland,Saarland,Sankt Wendel,2,0
+2020-06-08,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,3,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Altenkirchen,5,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Alzey-Worms,1,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Bad Kreuznach,2,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,3,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,1,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Cochem-Zell,1,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Frankenthal,2,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Germersheim,5,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Kaiserslautern,1,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Koblenz,1,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Mainz,8,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Mainz-Bingen,2,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,6,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,7,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Speyer,5,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Trier-Saarburg,4,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Vulkaneifel,1,1
+2020-06-15,Deutschland,Rheinland-Pfalz,Westerwaldkreis,5,0
+2020-06-15,Deutschland,Rheinland-Pfalz,Worms,1,0
+2020-06-15,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,5,0
+2020-06-15,Deutschland,Saarland,Merzig-Wadern,1,0
+2020-06-15,Deutschland,Saarland,Neunkirchen,1,0
+2020-06-15,Deutschland,Saarland,Saarlouis,4,1
+2020-06-15,Deutschland,Saarland,Sankt Wendel,1,0
+2020-06-15,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,1,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Ahrweiler,3,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Alzey-Worms,1,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Bad Kreuznach,1,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,5,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,12,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Cochem-Zell,1,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Germersheim,12,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Kaiserslautern,3,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),4,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Kusel,1,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,2,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Ludwigshafen,6,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Mainz,1,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,3,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,4,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Speyer,5,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Trier,1,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Vulkaneifel,4,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Westerwaldkreis,3,0
+2020-06-22,Deutschland,Rheinland-Pfalz,Worms,1,0
+2020-06-22,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,2,0
+2020-06-22,Deutschland,Saarland,Merzig-Wadern,2,0
+2020-06-22,Deutschland,Saarland,Saarlouis,3,0
+2020-06-22,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,1,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Ahrweiler,9,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Altenkirchen,4,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Bad Kreuznach,1,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,2,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Cochem-Zell,1,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Donnersbergkreis,1,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Germersheim,23,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),7,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Kusel,4,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Ludwigshafen,8,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Mainz,3,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Mainz-Bingen,2,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,1,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,1,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,5,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Speyer,6,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Trier,2,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Trier-Saarburg,4,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Westerwaldkreis,9,0
+2020-06-29,Deutschland,Rheinland-Pfalz,Worms,2,1
+2020-06-29,Deutschland,Saarland,Saarlouis,1,0
+2020-06-29,Deutschland,Saarland,Saarpfalz-Kreis,1,0
+2020-06-29,Deutschland,Saarland,Sankt Wendel,1,0
+2020-06-29,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,1,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Ahrweiler,6,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Altenkirchen,2,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Alzey-Worms,1,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,4,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Birkenfeld,1,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,9,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Germersheim,9,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Kaiserslautern,2,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),8,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Koblenz,5,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Kusel,1,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Ludwigshafen,3,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Mainz,4,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Mainz-Bingen,3,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,1,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,4,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Neuwied,2,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,2,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,8,0
+2020-07-06,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,8,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Speyer,1,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Trier,9,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Trier-Saarburg,14,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Vulkaneifel,1,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Westerwaldkreis,4,0
+2020-07-06,Deutschland,Rheinland-Pfalz,Worms,1,0
+2020-07-06,Deutschland,Saarland,Merzig-Wadern,1,0
+2020-07-06,Deutschland,Saarland,Neunkirchen,2,0
+2020-07-06,Deutschland,Saarland,Saarlouis,2,0
+2020-07-06,Deutschland,Saarland,Saarpfalz-Kreis,8,0
+2020-07-06,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,2,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Ahrweiler,7,1
+2020-07-13,Deutschland,Rheinland-Pfalz,Altenkirchen,2,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Bad Kreuznach,2,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,6,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Birkenfeld,1,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,18,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Germersheim,2,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Kaiserslautern,3,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),12,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Koblenz,1,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Kusel,2,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Ludwigshafen,6,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Mainz,8,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Mainz-Bingen,2,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,7,1
+2020-07-13,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,1,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Neuwied,12,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Pirmasens,3,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,2,0
+2020-07-13,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,3,1
+2020-07-13,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,6,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Trier,7,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Trier-Saarburg,13,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Vulkaneifel,1,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Westerwaldkreis,5,0
+2020-07-13,Deutschland,Rheinland-Pfalz,Worms,1,0
+2020-07-13,Deutschland,Saarland,Merzig-Wadern,1,0
+2020-07-13,Deutschland,Saarland,Neunkirchen,1,0
+2020-07-13,Deutschland,Saarland,Saarlouis,3,0
+2020-07-13,Deutschland,Saarland,Saarpfalz-Kreis,5,0
+2020-07-13,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,4,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Ahrweiler,4,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Altenkirchen,5,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,1,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Bad Kreuznach,2,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,16,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Birkenfeld,1,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,9,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Germersheim,1,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Kaiserslautern,6,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),4,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Koblenz,2,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Kusel,2,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Ludwigshafen,4,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Mainz,15,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Mainz-Bingen,5,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,1,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,5,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Neuwied,2,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Pirmasens,1,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,3,0
+2020-07-20,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,2,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Speyer,4,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Trier,4,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Trier-Saarburg,4,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Vulkaneifel,2,0
+2020-07-20,Deutschland,Rheinland-Pfalz,Westerwaldkreis,3,0
+2020-07-20,Deutschland,Saarland,Merzig-Wadern,8,0
+2020-07-20,Deutschland,Saarland,Neunkirchen,6,0
+2020-07-20,Deutschland,Saarland,Saarlouis,6,0
+2020-07-20,Deutschland,Saarland,Saarpfalz-Kreis,1,0
+2020-07-20,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,8,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Ahrweiler,3,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Altenkirchen,2,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Alzey-Worms,1,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,1,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Bad Kreuznach,2,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,4,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,22,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Frankenthal,3,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Germersheim,1,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Kaiserslautern,7,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),1,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Koblenz,11,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Kusel,6,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,1,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Ludwigshafen,10,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Mainz,11,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Mainz-Bingen,6,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,9,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,3,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Neuwied,13,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Pirmasens,1,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,1,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,2,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,4,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Trier,5,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Trier-Saarburg,14,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Westerwaldkreis,7,0
+2020-07-27,Deutschland,Rheinland-Pfalz,Worms,3,0
+2020-07-27,Deutschland,Saarland,Merzig-Wadern,3,0
+2020-07-27,Deutschland,Saarland,Neunkirchen,2,0
+2020-07-27,Deutschland,Saarland,Saarlouis,2,0
+2020-07-27,Deutschland,Saarland,Saarpfalz-Kreis,2,0
+2020-07-27,Deutschland,Saarland,Sankt Wendel,4,0
+2020-07-27,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,18,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Ahrweiler,14,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Altenkirchen,1,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Alzey-Worms,6,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,2,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Bad Kreuznach,6,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,5,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Birkenfeld,3,1
+2020-08-03,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,14,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Cochem-Zell,3,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Donnersbergkreis,1,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Germersheim,13,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Kaiserslautern,6,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),3,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Koblenz,6,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Kusel,8,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,1,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Ludwigshafen,42,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Mainz,24,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Mainz-Bingen,15,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,6,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,2,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Neuwied,10,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Pirmasens,2,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,7,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,6,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,2,0
+2020-08-03,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,7,0
+2020-08-03,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,2,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Speyer,6,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Trier,8,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Trier-Saarburg,10,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Vulkaneifel,3,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Westerwaldkreis,31,0
+2020-08-03,Deutschland,Rheinland-Pfalz,Worms,5,0
+2020-08-03,Deutschland,Saarland,Merzig-Wadern,7,0
+2020-08-03,Deutschland,Saarland,Neunkirchen,3,0
+2020-08-03,Deutschland,Saarland,Saarlouis,10,0
+2020-08-03,Deutschland,Saarland,Saarpfalz-Kreis,10,0
+2020-08-03,Deutschland,Saarland,Sankt Wendel,1,0
+2020-08-03,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,10,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Ahrweiler,18,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Altenkirchen,10,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Alzey-Worms,12,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,9,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Bad Kreuznach,23,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,6,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Birkenfeld,6,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,7,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Cochem-Zell,3,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Donnersbergkreis,12,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Frankenthal,9,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Germersheim,12,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Kaiserslautern,14,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),3,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Koblenz,16,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Kusel,1,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,2,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Ludwigshafen,37,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Mainz,29,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Mainz-Bingen,20,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,7,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,9,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Neuwied,14,1
+2020-08-10,Deutschland,Rheinland-Pfalz,Pirmasens,1,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,8,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,8,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,15,0
+2020-08-10,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,4,0
+2020-08-10,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,5,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Speyer,10,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Trier,13,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Trier-Saarburg,8,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Vulkaneifel,1,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Westerwaldkreis,16,0
+2020-08-10,Deutschland,Rheinland-Pfalz,Worms,12,0
+2020-08-10,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,3,0
+2020-08-10,Deutschland,Saarland,Merzig-Wadern,15,0
+2020-08-10,Deutschland,Saarland,Neunkirchen,10,0
+2020-08-10,Deutschland,Saarland,Saarlouis,18,0
+2020-08-10,Deutschland,Saarland,Saarpfalz-Kreis,22,0
+2020-08-10,Deutschland,Saarland,Sankt Wendel,5,0
+2020-08-10,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,7,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Ahrweiler,25,1
+2020-08-17,Deutschland,Rheinland-Pfalz,Altenkirchen,3,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Alzey-Worms,19,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,7,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Bad Kreuznach,31,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,9,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Birkenfeld,13,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,3,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Cochem-Zell,5,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Donnersbergkreis,1,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Frankenthal,5,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Germersheim,41,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Kaiserslautern,17,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),21,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Koblenz,16,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Kusel,8,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,9,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Ludwigshafen,32,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Mainz,30,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Mainz-Bingen,38,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,15,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,6,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Neuwied,20,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,14,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,9,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,18,0
+2020-08-17,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,4,0
+2020-08-17,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,8,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Speyer,9,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Trier,8,1
+2020-08-17,Deutschland,Rheinland-Pfalz,Trier-Saarburg,8,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Vulkaneifel,4,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Westerwaldkreis,21,0
+2020-08-17,Deutschland,Rheinland-Pfalz,Worms,21,0
+2020-08-17,Deutschland,Saarland,Merzig-Wadern,4,0
+2020-08-17,Deutschland,Saarland,Neunkirchen,7,0
+2020-08-17,Deutschland,Saarland,Saarlouis,25,0
+2020-08-17,Deutschland,Saarland,Saarpfalz-Kreis,11,0
+2020-08-17,Deutschland,Saarland,Sankt Wendel,2,1
+2020-08-17,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,25,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Ahrweiler,17,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Altenkirchen,9,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Alzey-Worms,5,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,5,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Bad Kreuznach,20,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,5,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Birkenfeld,2,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,3,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Cochem-Zell,5,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Donnersbergkreis,4,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Frankenthal,4,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Germersheim,17,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Kaiserslautern,15,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),12,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Koblenz,8,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Kusel,3,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,3,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Ludwigshafen,42,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Mainz,31,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Mainz-Bingen,11,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,14,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,2,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Neuwied,18,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Pirmasens,3,1
+2020-08-24,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,5,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,5,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,20,0
+2020-08-24,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,6,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Speyer,3,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Trier,8,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Trier-Saarburg,63,1
+2020-08-24,Deutschland,Rheinland-Pfalz,Vulkaneifel,1,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Westerwaldkreis,11,0
+2020-08-24,Deutschland,Rheinland-Pfalz,Worms,5,0
+2020-08-24,Deutschland,Saarland,Merzig-Wadern,10,0
+2020-08-24,Deutschland,Saarland,Neunkirchen,2,0
+2020-08-24,Deutschland,Saarland,Saarlouis,24,0
+2020-08-24,Deutschland,Saarland,Saarpfalz-Kreis,8,0
+2020-08-24,Deutschland,Saarland,Sankt Wendel,1,0
+2020-08-24,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,20,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Ahrweiler,30,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Altenkirchen,12,1
+2020-08-31,Deutschland,Rheinland-Pfalz,Alzey-Worms,10,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,5,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Bad Kreuznach,5,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,3,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Birkenfeld,3,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,9,1
+2020-08-31,Deutschland,Rheinland-Pfalz,Cochem-Zell,3,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Donnersbergkreis,9,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Frankenthal,4,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Germersheim,15,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Kaiserslautern,6,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),10,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Koblenz,2,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Kusel,1,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,4,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Ludwigshafen,25,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Mainz,45,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Mainz-Bingen,17,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,4,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,1,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Neuwied,17,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,7,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,4,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,13,0
+2020-08-31,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,1,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Speyer,3,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Trier,14,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Trier-Saarburg,14,1
+2020-08-31,Deutschland,Rheinland-Pfalz,Vulkaneifel,5,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Westerwaldkreis,14,0
+2020-08-31,Deutschland,Rheinland-Pfalz,Worms,13,0
+2020-08-31,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,5,0
+2020-08-31,Deutschland,Saarland,Merzig-Wadern,2,0
+2020-08-31,Deutschland,Saarland,Neunkirchen,9,0
+2020-08-31,Deutschland,Saarland,Saarlouis,10,0
+2020-08-31,Deutschland,Saarland,Saarpfalz-Kreis,10,0
+2020-08-31,Deutschland,Saarland,Sankt Wendel,2,0
+2020-08-31,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,20,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Ahrweiler,6,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Altenkirchen,9,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Alzey-Worms,8,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,5,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Bad Kreuznach,15,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,4,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Birkenfeld,2,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,8,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Cochem-Zell,5,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Donnersbergkreis,8,1
+2020-09-07,Deutschland,Rheinland-Pfalz,Frankenthal,8,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Germersheim,14,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Kaiserslautern,15,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),13,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Koblenz,7,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Kusel,4,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,1,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Ludwigshafen,26,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Mainz,61,1
+2020-09-07,Deutschland,Rheinland-Pfalz,Mainz-Bingen,26,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,7,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,4,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Neuwied,33,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Pirmasens,5,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,3,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,10,0
+2020-09-07,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,9,0
+2020-09-07,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,2,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Speyer,5,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Trier,11,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Trier-Saarburg,21,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Vulkaneifel,3,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Westerwaldkreis,30,0
+2020-09-07,Deutschland,Rheinland-Pfalz,Worms,23,0
+2020-09-07,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,3,0
+2020-09-07,Deutschland,Saarland,Merzig-Wadern,5,1
+2020-09-07,Deutschland,Saarland,Neunkirchen,2,0
+2020-09-07,Deutschland,Saarland,Saarlouis,12,0
+2020-09-07,Deutschland,Saarland,Saarpfalz-Kreis,9,0
+2020-09-07,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,18,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Ahrweiler,14,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Altenkirchen,7,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Alzey-Worms,10,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,8,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Bad Kreuznach,15,1
+2020-09-14,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,5,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Birkenfeld,1,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,5,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Cochem-Zell,7,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Donnersbergkreis,8,2
+2020-09-14,Deutschland,Rheinland-Pfalz,Frankenthal,2,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Germersheim,32,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Kaiserslautern,13,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),6,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Koblenz,7,1
+2020-09-14,Deutschland,Rheinland-Pfalz,Kusel,2,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,1,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Ludwigshafen,24,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Mainz,42,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Mainz-Bingen,12,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,20,1
+2020-09-14,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,2,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Neuwied,21,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Pirmasens,2,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,9,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,1,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,3,0
+2020-09-14,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,8,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Speyer,7,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Trier,6,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Trier-Saarburg,9,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Westerwaldkreis,31,0
+2020-09-14,Deutschland,Rheinland-Pfalz,Worms,18,0
+2020-09-14,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,4,0
+2020-09-14,Deutschland,Saarland,Merzig-Wadern,8,0
+2020-09-14,Deutschland,Saarland,Neunkirchen,15,1
+2020-09-14,Deutschland,Saarland,Saarlouis,12,0
+2020-09-14,Deutschland,Saarland,Saarpfalz-Kreis,10,0
+2020-09-14,Deutschland,Saarland,Sankt Wendel,1,0
+2020-09-14,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,16,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Ahrweiler,5,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Altenkirchen,15,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Alzey-Worms,18,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,14,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Bad Kreuznach,13,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,14,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Birkenfeld,4,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,3,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Cochem-Zell,2,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Donnersbergkreis,2,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Frankenthal,6,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Germersheim,20,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Kaiserslautern,12,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),16,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Koblenz,14,1
+2020-09-21,Deutschland,Rheinland-Pfalz,Kusel,2,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Ludwigshafen,38,1
+2020-09-21,Deutschland,Rheinland-Pfalz,Mainz,65,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Mainz-Bingen,25,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,46,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,7,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Neuwied,33,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Pirmasens,1,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,4,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,16,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,30,0
+2020-09-21,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,5,0
+2020-09-21,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,1,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Speyer,8,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Trier,10,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Trier-Saarburg,16,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Vulkaneifel,1,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Westerwaldkreis,40,0
+2020-09-21,Deutschland,Rheinland-Pfalz,Worms,11,0
+2020-09-21,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,4,0
+2020-09-21,Deutschland,Saarland,Merzig-Wadern,7,0
+2020-09-21,Deutschland,Saarland,Neunkirchen,10,0
+2020-09-21,Deutschland,Saarland,Saarlouis,27,0
+2020-09-21,Deutschland,Saarland,Saarpfalz-Kreis,20,0
+2020-09-21,Deutschland,Saarland,Sankt Wendel,5,0
+2020-09-21,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,19,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Ahrweiler,20,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Altenkirchen,16,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Alzey-Worms,30,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,18,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Bad Kreuznach,15,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,25,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Birkenfeld,9,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,8,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Cochem-Zell,3,1
+2020-09-28,Deutschland,Rheinland-Pfalz,Donnersbergkreis,1,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Frankenthal,6,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Germersheim,20,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Kaiserslautern,48,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),19,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Koblenz,11,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Kusel,3,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,5,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Ludwigshafen,31,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Mainz,82,1
+2020-09-28,Deutschland,Rheinland-Pfalz,Mainz-Bingen,49,1
+2020-09-28,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,30,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,10,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Neuwied,50,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Pirmasens,3,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,4,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,12,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,33,0
+2020-09-28,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,8,0
+2020-09-28,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,2,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Speyer,8,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Trier,25,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Trier-Saarburg,28,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Vulkaneifel,4,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Westerwaldkreis,28,0
+2020-09-28,Deutschland,Rheinland-Pfalz,Worms,16,0
+2020-09-28,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,5,0
+2020-09-28,Deutschland,Saarland,Merzig-Wadern,21,0
+2020-09-28,Deutschland,Saarland,Neunkirchen,20,1
+2020-09-28,Deutschland,Saarland,Saarlouis,29,0
+2020-09-28,Deutschland,Saarland,Saarpfalz-Kreis,22,0
+2020-09-28,Deutschland,Saarland,Sankt Wendel,18,0
+2020-09-28,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,45,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Ahrweiler,30,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Altenkirchen,28,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Alzey-Worms,40,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,39,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Bad Kreuznach,44,1
+2020-10-05,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,25,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Birkenfeld,18,1
+2020-10-05,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,93,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Cochem-Zell,7,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Donnersbergkreis,13,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Frankenthal,13,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Germersheim,43,3
+2020-10-05,Deutschland,Rheinland-Pfalz,Kaiserslautern,36,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),17,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Koblenz,37,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Kusel,8,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,10,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Ludwigshafen,54,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Mainz,133,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Mainz-Bingen,85,8
+2020-10-05,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,55,1
+2020-10-05,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,5,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Neuwied,90,1
+2020-10-05,Deutschland,Rheinland-Pfalz,Pirmasens,6,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,18,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,25,1
+2020-10-05,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,28,0
+2020-10-05,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,14,0
+2020-10-05,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,9,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Speyer,3,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Trier,26,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Trier-Saarburg,35,1
+2020-10-05,Deutschland,Rheinland-Pfalz,Vulkaneifel,29,0
+2020-10-05,Deutschland,Rheinland-Pfalz,Westerwaldkreis,39,2
+2020-10-05,Deutschland,Rheinland-Pfalz,Worms,12,0
+2020-10-05,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,10,0
+2020-10-05,Deutschland,Saarland,Merzig-Wadern,56,0
+2020-10-05,Deutschland,Saarland,Neunkirchen,37,0
+2020-10-05,Deutschland,Saarland,Saarlouis,61,0
+2020-10-05,Deutschland,Saarland,Saarpfalz-Kreis,60,0
+2020-10-05,Deutschland,Saarland,Sankt Wendel,100,0
+2020-10-05,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,51,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Ahrweiler,42,1
+2020-10-12,Deutschland,Rheinland-Pfalz,Altenkirchen,149,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Alzey-Worms,53,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,66,2
+2020-10-12,Deutschland,Rheinland-Pfalz,Bad Kreuznach,43,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,85,3
+2020-10-12,Deutschland,Rheinland-Pfalz,Birkenfeld,121,4
+2020-10-12,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,120,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Cochem-Zell,35,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Donnersbergkreis,21,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Frankenthal,10,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Germersheim,65,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Kaiserslautern,36,1
+2020-10-12,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),41,1
+2020-10-12,Deutschland,Rheinland-Pfalz,Koblenz,28,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Kusel,19,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,17,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Ludwigshafen,79,1
+2020-10-12,Deutschland,Rheinland-Pfalz,Mainz,179,1
+2020-10-12,Deutschland,Rheinland-Pfalz,Mainz-Bingen,72,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,57,1
+2020-10-12,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,13,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Neuwied,108,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Pirmasens,8,1
+2020-10-12,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,47,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,41,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,45,1
+2020-10-12,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,39,0
+2020-10-12,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,46,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Speyer,16,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Trier,40,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Trier-Saarburg,67,0
+2020-10-12,Deutschland,Rheinland-Pfalz,Vulkaneifel,65,1
+2020-10-12,Deutschland,Rheinland-Pfalz,Westerwaldkreis,76,1
+2020-10-12,Deutschland,Rheinland-Pfalz,Worms,22,0
+2020-10-12,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,18,0
+2020-10-12,Deutschland,Saarland,Merzig-Wadern,82,1
+2020-10-12,Deutschland,Saarland,Neunkirchen,123,0
+2020-10-12,Deutschland,Saarland,Saarlouis,143,1
+2020-10-12,Deutschland,Saarland,Saarpfalz-Kreis,66,1
+2020-10-12,Deutschland,Saarland,Sankt Wendel,129,2
+2020-10-12,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,175,1
+2020-10-19,Deutschland,Rheinland-Pfalz,Ahrweiler,111,4
+2020-10-19,Deutschland,Rheinland-Pfalz,Altenkirchen,149,0
+2020-10-19,Deutschland,Rheinland-Pfalz,Alzey-Worms,81,0
+2020-10-19,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,109,1
+2020-10-19,Deutschland,Rheinland-Pfalz,Bad Kreuznach,93,1
+2020-10-19,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,177,8
+2020-10-19,Deutschland,Rheinland-Pfalz,Birkenfeld,128,2
+2020-10-19,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,170,0
+2020-10-19,Deutschland,Rheinland-Pfalz,Cochem-Zell,68,0
+2020-10-19,Deutschland,Rheinland-Pfalz,Donnersbergkreis,31,0
+2020-10-19,Deutschland,Rheinland-Pfalz,Frankenthal,35,1
+2020-10-19,Deutschland,Rheinland-Pfalz,Germersheim,94,2
+2020-10-19,Deutschland,Rheinland-Pfalz,Kaiserslautern,85,0
+2020-10-19,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),102,1
+2020-10-19,Deutschland,Rheinland-Pfalz,Koblenz,67,0
+2020-10-19,Deutschland,Rheinland-Pfalz,Kusel,66,2
+2020-10-19,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,25,0
+2020-10-19,Deutschland,Rheinland-Pfalz,Ludwigshafen,213,6
+2020-10-19,Deutschland,Rheinland-Pfalz,Mainz,274,1
+2020-10-19,Deutschland,Rheinland-Pfalz,Mainz-Bingen,179,1
+2020-10-19,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,81,0
+2020-10-19,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,25,0
+2020-10-19,Deutschland,Rheinland-Pfalz,Neuwied,168,2
+2020-10-19,Deutschland,Rheinland-Pfalz,Pirmasens,21,0
+2020-10-19,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,78,0
+2020-10-19,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,69,1
+2020-10-19,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,99,0
+2020-10-19,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,82,0
+2020-10-19,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,62,0
+2020-10-19,Deutschland,Rheinland-Pfalz,Speyer,34,0
+2020-10-19,Deutschland,Rheinland-Pfalz,Trier,130,0
+2020-10-19,Deutschland,Rheinland-Pfalz,Trier-Saarburg,109,0
+2020-10-19,Deutschland,Rheinland-Pfalz,Vulkaneifel,54,0
+2020-10-19,Deutschland,Rheinland-Pfalz,Westerwaldkreis,199,3
+2020-10-19,Deutschland,Rheinland-Pfalz,Worms,59,0
+2020-10-19,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,24,0
+2020-10-19,Deutschland,Saarland,Merzig-Wadern,141,3
+2020-10-19,Deutschland,Saarland,Neunkirchen,113,1
+2020-10-19,Deutschland,Saarland,Saarlouis,210,1
+2020-10-19,Deutschland,Saarland,Saarpfalz-Kreis,132,0
+2020-10-19,Deutschland,Saarland,Sankt Wendel,133,7
+2020-10-19,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,387,4
+2020-10-26,Deutschland,Rheinland-Pfalz,Ahrweiler,133,0
+2020-10-26,Deutschland,Rheinland-Pfalz,Altenkirchen,131,2
+2020-10-26,Deutschland,Rheinland-Pfalz,Alzey-Worms,139,1
+2020-10-26,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,117,3
+2020-10-26,Deutschland,Rheinland-Pfalz,Bad Kreuznach,166,0
+2020-10-26,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,139,5
+2020-10-26,Deutschland,Rheinland-Pfalz,Birkenfeld,140,8
+2020-10-26,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,120,0
+2020-10-26,Deutschland,Rheinland-Pfalz,Cochem-Zell,72,0
+2020-10-26,Deutschland,Rheinland-Pfalz,Donnersbergkreis,58,0
+2020-10-26,Deutschland,Rheinland-Pfalz,Frankenthal,44,0
+2020-10-26,Deutschland,Rheinland-Pfalz,Germersheim,183,9
+2020-10-26,Deutschland,Rheinland-Pfalz,Kaiserslautern,173,2
+2020-10-26,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),169,3
+2020-10-26,Deutschland,Rheinland-Pfalz,Koblenz,116,0
+2020-10-26,Deutschland,Rheinland-Pfalz,Kusel,91,3
+2020-10-26,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,51,1
+2020-10-26,Deutschland,Rheinland-Pfalz,Ludwigshafen,267,4
+2020-10-26,Deutschland,Rheinland-Pfalz,Mainz,325,0
+2020-10-26,Deutschland,Rheinland-Pfalz,Mainz-Bingen,253,0
+2020-10-26,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,170,1
+2020-10-26,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,49,0
+2020-10-26,Deutschland,Rheinland-Pfalz,Neuwied,167,2
+2020-10-26,Deutschland,Rheinland-Pfalz,Pirmasens,31,0
+2020-10-26,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,97,2
+2020-10-26,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,120,2
+2020-10-26,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,113,2
+2020-10-26,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,139,0
+2020-10-26,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,86,0
+2020-10-26,Deutschland,Rheinland-Pfalz,Speyer,59,0
+2020-10-26,Deutschland,Rheinland-Pfalz,Trier,128,0
+2020-10-26,Deutschland,Rheinland-Pfalz,Trier-Saarburg,185,2
+2020-10-26,Deutschland,Rheinland-Pfalz,Vulkaneifel,37,0
+2020-10-26,Deutschland,Rheinland-Pfalz,Westerwaldkreis,184,2
+2020-10-26,Deutschland,Rheinland-Pfalz,Worms,77,1
+2020-10-26,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,21,0
+2020-10-26,Deutschland,Saarland,Merzig-Wadern,153,6
+2020-10-26,Deutschland,Saarland,Neunkirchen,238,5
+2020-10-26,Deutschland,Saarland,Saarlouis,339,1
+2020-10-26,Deutschland,Saarland,Saarpfalz-Kreis,204,3
+2020-10-26,Deutschland,Saarland,Sankt Wendel,179,7
+2020-10-26,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,584,6
+2020-11-02,Deutschland,Rheinland-Pfalz,Ahrweiler,230,8
+2020-11-02,Deutschland,Rheinland-Pfalz,Altenkirchen,104,1
+2020-11-02,Deutschland,Rheinland-Pfalz,Alzey-Worms,186,1
+2020-11-02,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,138,2
+2020-11-02,Deutschland,Rheinland-Pfalz,Bad Kreuznach,109,0
+2020-11-02,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,139,1
+2020-11-02,Deutschland,Rheinland-Pfalz,Birkenfeld,120,8
+2020-11-02,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,111,1
+2020-11-02,Deutschland,Rheinland-Pfalz,Cochem-Zell,78,0
+2020-11-02,Deutschland,Rheinland-Pfalz,Donnersbergkreis,74,0
+2020-11-02,Deutschland,Rheinland-Pfalz,Frankenthal,65,0
+2020-11-02,Deutschland,Rheinland-Pfalz,Germersheim,238,3
+2020-11-02,Deutschland,Rheinland-Pfalz,Kaiserslautern,232,3
+2020-11-02,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),140,2
+2020-11-02,Deutschland,Rheinland-Pfalz,Koblenz,236,4
+2020-11-02,Deutschland,Rheinland-Pfalz,Kusel,213,10
+2020-11-02,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,43,1
+2020-11-02,Deutschland,Rheinland-Pfalz,Ludwigshafen,229,6
+2020-11-02,Deutschland,Rheinland-Pfalz,Mainz,448,1
+2020-11-02,Deutschland,Rheinland-Pfalz,Mainz-Bingen,290,5
+2020-11-02,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,259,2
+2020-11-02,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,61,0
+2020-11-02,Deutschland,Rheinland-Pfalz,Neuwied,237,1
+2020-11-02,Deutschland,Rheinland-Pfalz,Pirmasens,19,0
+2020-11-02,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,145,2
+2020-11-02,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,101,0
+2020-11-02,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,137,3
+2020-11-02,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,123,2
+2020-11-02,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,85,2
+2020-11-02,Deutschland,Rheinland-Pfalz,Speyer,66,0
+2020-11-02,Deutschland,Rheinland-Pfalz,Trier,123,1
+2020-11-02,Deutschland,Rheinland-Pfalz,Trier-Saarburg,153,0
+2020-11-02,Deutschland,Rheinland-Pfalz,Vulkaneifel,76,1
+2020-11-02,Deutschland,Rheinland-Pfalz,Westerwaldkreis,211,1
+2020-11-02,Deutschland,Rheinland-Pfalz,Worms,82,1
+2020-11-02,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,12,0
+2020-11-02,Deutschland,Saarland,Merzig-Wadern,101,2
+2020-11-02,Deutschland,Saarland,Neunkirchen,221,9
+2020-11-02,Deutschland,Saarland,Saarlouis,341,0
+2020-11-02,Deutschland,Saarland,Saarpfalz-Kreis,160,2
+2020-11-02,Deutschland,Saarland,Sankt Wendel,110,2
+2020-11-02,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,681,14
+2020-11-09,Deutschland,Rheinland-Pfalz,Ahrweiler,168,2
+2020-11-09,Deutschland,Rheinland-Pfalz,Altenkirchen,103,0
+2020-11-09,Deutschland,Rheinland-Pfalz,Alzey-Worms,228,4
+2020-11-09,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,145,4
+2020-11-09,Deutschland,Rheinland-Pfalz,Bad Kreuznach,174,1
+2020-11-09,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,116,0
+2020-11-09,Deutschland,Rheinland-Pfalz,Birkenfeld,140,8
+2020-11-09,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,107,1
+2020-11-09,Deutschland,Rheinland-Pfalz,Cochem-Zell,101,4
+2020-11-09,Deutschland,Rheinland-Pfalz,Donnersbergkreis,151,4
+2020-11-09,Deutschland,Rheinland-Pfalz,Frankenthal,85,2
+2020-11-09,Deutschland,Rheinland-Pfalz,Germersheim,198,3
+2020-11-09,Deutschland,Rheinland-Pfalz,Kaiserslautern,234,9
+2020-11-09,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),143,3
+2020-11-09,Deutschland,Rheinland-Pfalz,Koblenz,164,4
+2020-11-09,Deutschland,Rheinland-Pfalz,Kusel,167,14
+2020-11-09,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,50,0
+2020-11-09,Deutschland,Rheinland-Pfalz,Ludwigshafen,540,15
+2020-11-09,Deutschland,Rheinland-Pfalz,Mainz,477,10
+2020-11-09,Deutschland,Rheinland-Pfalz,Mainz-Bingen,326,11
+2020-11-09,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,324,2
+2020-11-09,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,44,0
+2020-11-09,Deutschland,Rheinland-Pfalz,Neuwied,265,3
+2020-11-09,Deutschland,Rheinland-Pfalz,Pirmasens,25,0
+2020-11-09,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,97,1
+2020-11-09,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,83,4
+2020-11-09,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,292,3
+2020-11-09,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,131,5
+2020-11-09,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,101,5
+2020-11-09,Deutschland,Rheinland-Pfalz,Speyer,203,2
+2020-11-09,Deutschland,Rheinland-Pfalz,Trier,81,3
+2020-11-09,Deutschland,Rheinland-Pfalz,Trier-Saarburg,104,2
+2020-11-09,Deutschland,Rheinland-Pfalz,Vulkaneifel,105,8
+2020-11-09,Deutschland,Rheinland-Pfalz,Westerwaldkreis,227,1
+2020-11-09,Deutschland,Rheinland-Pfalz,Worms,122,1
+2020-11-09,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,40,1
+2020-11-09,Deutschland,Saarland,Merzig-Wadern,243,6
+2020-11-09,Deutschland,Saarland,Neunkirchen,195,1
+2020-11-09,Deutschland,Saarland,Saarlouis,311,4
+2020-11-09,Deutschland,Saarland,Saarpfalz-Kreis,179,2
+2020-11-09,Deutschland,Saarland,Sankt Wendel,89,1
+2020-11-09,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,519,8
+2020-11-16,Deutschland,Rheinland-Pfalz,Ahrweiler,171,4
+2020-11-16,Deutschland,Rheinland-Pfalz,Altenkirchen,141,4
+2020-11-16,Deutschland,Rheinland-Pfalz,Alzey-Worms,214,0
+2020-11-16,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,175,8
+2020-11-16,Deutschland,Rheinland-Pfalz,Bad Kreuznach,308,5
+2020-11-16,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,88,2
+2020-11-16,Deutschland,Rheinland-Pfalz,Birkenfeld,105,4
+2020-11-16,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,121,1
+2020-11-16,Deutschland,Rheinland-Pfalz,Cochem-Zell,85,4
+2020-11-16,Deutschland,Rheinland-Pfalz,Donnersbergkreis,129,2
+2020-11-16,Deutschland,Rheinland-Pfalz,Frankenthal,68,4
+2020-11-16,Deutschland,Rheinland-Pfalz,Germersheim,241,10
+2020-11-16,Deutschland,Rheinland-Pfalz,Kaiserslautern,160,5
+2020-11-16,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),98,2
+2020-11-16,Deutschland,Rheinland-Pfalz,Koblenz,166,1
+2020-11-16,Deutschland,Rheinland-Pfalz,Kusel,114,9
+2020-11-16,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,40,0
+2020-11-16,Deutschland,Rheinland-Pfalz,Ludwigshafen,276,19
+2020-11-16,Deutschland,Rheinland-Pfalz,Mainz,549,21
+2020-11-16,Deutschland,Rheinland-Pfalz,Mainz-Bingen,310,7
+2020-11-16,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,251,4
+2020-11-16,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,72,2
+2020-11-16,Deutschland,Rheinland-Pfalz,Neuwied,236,6
+2020-11-16,Deutschland,Rheinland-Pfalz,Pirmasens,24,0
+2020-11-16,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,101,1
+2020-11-16,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,133,3
+2020-11-16,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,210,5
+2020-11-16,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,79,1
+2020-11-16,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,113,5
+2020-11-16,Deutschland,Rheinland-Pfalz,Speyer,120,3
+2020-11-16,Deutschland,Rheinland-Pfalz,Trier,72,3
+2020-11-16,Deutschland,Rheinland-Pfalz,Trier-Saarburg,172,0
+2020-11-16,Deutschland,Rheinland-Pfalz,Vulkaneifel,70,2
+2020-11-16,Deutschland,Rheinland-Pfalz,Westerwaldkreis,170,1
+2020-11-16,Deutschland,Rheinland-Pfalz,Worms,146,0
+2020-11-16,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,32,0
+2020-11-16,Deutschland,Saarland,Merzig-Wadern,118,3
+2020-11-16,Deutschland,Saarland,Neunkirchen,138,2
+2020-11-16,Deutschland,Saarland,Saarlouis,254,9
+2020-11-16,Deutschland,Saarland,Saarpfalz-Kreis,164,5
+2020-11-16,Deutschland,Saarland,Sankt Wendel,71,1
+2020-11-16,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,471,13
+2020-11-23,Deutschland,Rheinland-Pfalz,Ahrweiler,157,0
+2020-11-23,Deutschland,Rheinland-Pfalz,Altenkirchen,115,1
+2020-11-23,Deutschland,Rheinland-Pfalz,Alzey-Worms,233,17
+2020-11-23,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,167,4
+2020-11-23,Deutschland,Rheinland-Pfalz,Bad Kreuznach,253,4
+2020-11-23,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,51,1
+2020-11-23,Deutschland,Rheinland-Pfalz,Birkenfeld,93,3
+2020-11-23,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,102,2
+2020-11-23,Deutschland,Rheinland-Pfalz,Cochem-Zell,72,0
+2020-11-23,Deutschland,Rheinland-Pfalz,Donnersbergkreis,78,1
+2020-11-23,Deutschland,Rheinland-Pfalz,Frankenthal,67,0
+2020-11-23,Deutschland,Rheinland-Pfalz,Germersheim,206,14
+2020-11-23,Deutschland,Rheinland-Pfalz,Kaiserslautern,167,4
+2020-11-23,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),108,6
+2020-11-23,Deutschland,Rheinland-Pfalz,Koblenz,183,5
+2020-11-23,Deutschland,Rheinland-Pfalz,Kusel,115,2
+2020-11-23,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,36,2
+2020-11-23,Deutschland,Rheinland-Pfalz,Ludwigshafen,296,20
+2020-11-23,Deutschland,Rheinland-Pfalz,Mainz,396,15
+2020-11-23,Deutschland,Rheinland-Pfalz,Mainz-Bingen,265,11
+2020-11-23,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,202,3
+2020-11-23,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,78,0
+2020-11-23,Deutschland,Rheinland-Pfalz,Neuwied,228,7
+2020-11-23,Deutschland,Rheinland-Pfalz,Pirmasens,45,3
+2020-11-23,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,127,1
+2020-11-23,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,122,11
+2020-11-23,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,266,15
+2020-11-23,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,127,6
+2020-11-23,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,92,3
+2020-11-23,Deutschland,Rheinland-Pfalz,Speyer,172,12
+2020-11-23,Deutschland,Rheinland-Pfalz,Trier,69,1
+2020-11-23,Deutschland,Rheinland-Pfalz,Trier-Saarburg,148,5
+2020-11-23,Deutschland,Rheinland-Pfalz,Vulkaneifel,50,4
+2020-11-23,Deutschland,Rheinland-Pfalz,Westerwaldkreis,165,5
+2020-11-23,Deutschland,Rheinland-Pfalz,Worms,138,0
+2020-11-23,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,32,0
+2020-11-23,Deutschland,Saarland,Merzig-Wadern,87,2
+2020-11-23,Deutschland,Saarland,Neunkirchen,147,2
+2020-11-23,Deutschland,Saarland,Saarlouis,181,2
+2020-11-23,Deutschland,Saarland,Saarpfalz-Kreis,207,7
+2020-11-23,Deutschland,Saarland,Sankt Wendel,72,4
+2020-11-23,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,546,23
+2020-11-30,Deutschland,Rheinland-Pfalz,Ahrweiler,124,2
+2020-11-30,Deutschland,Rheinland-Pfalz,Altenkirchen,152,1
+2020-11-30,Deutschland,Rheinland-Pfalz,Alzey-Worms,210,14
+2020-11-30,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,219,7
+2020-11-30,Deutschland,Rheinland-Pfalz,Bad Kreuznach,208,4
+2020-11-30,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,62,3
+2020-11-30,Deutschland,Rheinland-Pfalz,Birkenfeld,93,0
+2020-11-30,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,165,3
+2020-11-30,Deutschland,Rheinland-Pfalz,Cochem-Zell,66,1
+2020-11-30,Deutschland,Rheinland-Pfalz,Donnersbergkreis,65,0
+2020-11-30,Deutschland,Rheinland-Pfalz,Frankenthal,157,6
+2020-11-30,Deutschland,Rheinland-Pfalz,Germersheim,173,2
+2020-11-30,Deutschland,Rheinland-Pfalz,Kaiserslautern,161,4
+2020-11-30,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),98,0
+2020-11-30,Deutschland,Rheinland-Pfalz,Koblenz,150,3
+2020-11-30,Deutschland,Rheinland-Pfalz,Kusel,81,1
+2020-11-30,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,56,3
+2020-11-30,Deutschland,Rheinland-Pfalz,Ludwigshafen,755,39
+2020-11-30,Deutschland,Rheinland-Pfalz,Mainz,312,5
+2020-11-30,Deutschland,Rheinland-Pfalz,Mainz-Bingen,201,10
+2020-11-30,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,178,14
+2020-11-30,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,78,4
+2020-11-30,Deutschland,Rheinland-Pfalz,Neuwied,289,7
+2020-11-30,Deutschland,Rheinland-Pfalz,Pirmasens,64,2
+2020-11-30,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,126,0
+2020-11-30,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,162,6
+2020-11-30,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,503,45
+2020-11-30,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,132,6
+2020-11-30,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,85,6
+2020-11-30,Deutschland,Rheinland-Pfalz,Speyer,182,9
+2020-11-30,Deutschland,Rheinland-Pfalz,Trier,79,3
+2020-11-30,Deutschland,Rheinland-Pfalz,Trier-Saarburg,175,4
+2020-11-30,Deutschland,Rheinland-Pfalz,Vulkaneifel,88,1
+2020-11-30,Deutschland,Rheinland-Pfalz,Westerwaldkreis,229,6
+2020-11-30,Deutschland,Rheinland-Pfalz,Worms,123,1
+2020-11-30,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,31,0
+2020-11-30,Deutschland,Saarland,Merzig-Wadern,111,0
+2020-11-30,Deutschland,Saarland,Neunkirchen,123,4
+2020-11-30,Deutschland,Saarland,Saarlouis,289,7
+2020-11-30,Deutschland,Saarland,Saarpfalz-Kreis,223,7
+2020-11-30,Deutschland,Saarland,Sankt Wendel,162,9
+2020-11-30,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,566,11
+2020-12-07,Deutschland,Rheinland-Pfalz,Ahrweiler,157,2
+2020-12-07,Deutschland,Rheinland-Pfalz,Altenkirchen,192,2
+2020-12-07,Deutschland,Rheinland-Pfalz,Alzey-Worms,253,6
+2020-12-07,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,172,6
+2020-12-07,Deutschland,Rheinland-Pfalz,Bad Kreuznach,316,10
+2020-12-07,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,154,5
+2020-12-07,Deutschland,Rheinland-Pfalz,Birkenfeld,112,2
+2020-12-07,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,110,1
+2020-12-07,Deutschland,Rheinland-Pfalz,Cochem-Zell,82,3
+2020-12-07,Deutschland,Rheinland-Pfalz,Donnersbergkreis,97,3
+2020-12-07,Deutschland,Rheinland-Pfalz,Frankenthal,121,2
+2020-12-07,Deutschland,Rheinland-Pfalz,Germersheim,249,15
+2020-12-07,Deutschland,Rheinland-Pfalz,Kaiserslautern,133,4
+2020-12-07,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),152,7
+2020-12-07,Deutschland,Rheinland-Pfalz,Koblenz,202,6
+2020-12-07,Deutschland,Rheinland-Pfalz,Kusel,141,2
+2020-12-07,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,72,2
+2020-12-07,Deutschland,Rheinland-Pfalz,Ludwigshafen,604,31
+2020-12-07,Deutschland,Rheinland-Pfalz,Mainz,437,14
+2020-12-07,Deutschland,Rheinland-Pfalz,Mainz-Bingen,326,14
+2020-12-07,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,286,9
+2020-12-07,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,73,3
+2020-12-07,Deutschland,Rheinland-Pfalz,Neuwied,419,13
+2020-12-07,Deutschland,Rheinland-Pfalz,Pirmasens,65,3
+2020-12-07,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,128,3
+2020-12-07,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,196,11
+2020-12-07,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,384,15
+2020-12-07,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,166,8
+2020-12-07,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,119,4
+2020-12-07,Deutschland,Rheinland-Pfalz,Speyer,216,7
+2020-12-07,Deutschland,Rheinland-Pfalz,Trier,133,3
+2020-12-07,Deutschland,Rheinland-Pfalz,Trier-Saarburg,182,4
+2020-12-07,Deutschland,Rheinland-Pfalz,Vulkaneifel,109,7
+2020-12-07,Deutschland,Rheinland-Pfalz,Westerwaldkreis,297,10
+2020-12-07,Deutschland,Rheinland-Pfalz,Worms,135,1
+2020-12-07,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,23,0
+2020-12-07,Deutschland,Saarland,Merzig-Wadern,117,1
+2020-12-07,Deutschland,Saarland,Neunkirchen,234,8
+2020-12-07,Deutschland,Saarland,Saarlouis,375,6
+2020-12-07,Deutschland,Saarland,Saarpfalz-Kreis,214,10
+2020-12-07,Deutschland,Saarland,Sankt Wendel,138,4
+2020-12-07,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,837,38
+2020-12-14,Deutschland,Rheinland-Pfalz,Ahrweiler,173,1
+2020-12-14,Deutschland,Rheinland-Pfalz,Altenkirchen,119,3
+2020-12-14,Deutschland,Rheinland-Pfalz,Alzey-Worms,215,10
+2020-12-14,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,195,11
+2020-12-14,Deutschland,Rheinland-Pfalz,Bad Kreuznach,282,11
+2020-12-14,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,121,4
+2020-12-14,Deutschland,Rheinland-Pfalz,Birkenfeld,85,2
+2020-12-14,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,110,2
+2020-12-14,Deutschland,Rheinland-Pfalz,Cochem-Zell,110,2
+2020-12-14,Deutschland,Rheinland-Pfalz,Donnersbergkreis,107,6
+2020-12-14,Deutschland,Rheinland-Pfalz,Frankenthal,128,6
+2020-12-14,Deutschland,Rheinland-Pfalz,Germersheim,199,6
+2020-12-14,Deutschland,Rheinland-Pfalz,Kaiserslautern,139,3
+2020-12-14,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),129,2
+2020-12-14,Deutschland,Rheinland-Pfalz,Koblenz,222,10
+2020-12-14,Deutschland,Rheinland-Pfalz,Kusel,63,3
+2020-12-14,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,89,2
+2020-12-14,Deutschland,Rheinland-Pfalz,Ludwigshafen,583,32
+2020-12-14,Deutschland,Rheinland-Pfalz,Mainz,389,9
+2020-12-14,Deutschland,Rheinland-Pfalz,Mainz-Bingen,316,9
+2020-12-14,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,332,12
+2020-12-14,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,81,0
+2020-12-14,Deutschland,Rheinland-Pfalz,Neuwied,441,11
+2020-12-14,Deutschland,Rheinland-Pfalz,Pirmasens,88,6
+2020-12-14,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,154,6
+2020-12-14,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,309,24
+2020-12-14,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,477,36
+2020-12-14,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,128,5
+2020-12-14,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,151,4
+2020-12-14,Deutschland,Rheinland-Pfalz,Speyer,247,30
+2020-12-14,Deutschland,Rheinland-Pfalz,Trier,129,1
+2020-12-14,Deutschland,Rheinland-Pfalz,Trier-Saarburg,321,20
+2020-12-14,Deutschland,Rheinland-Pfalz,Vulkaneifel,121,5
+2020-12-14,Deutschland,Rheinland-Pfalz,Westerwaldkreis,344,9
+2020-12-14,Deutschland,Rheinland-Pfalz,Worms,171,10
+2020-12-14,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,26,0
+2020-12-14,Deutschland,Saarland,Merzig-Wadern,136,2
+2020-12-14,Deutschland,Saarland,Neunkirchen,196,5
+2020-12-14,Deutschland,Saarland,Saarlouis,444,7
+2020-12-14,Deutschland,Saarland,Saarpfalz-Kreis,198,6
+2020-12-14,Deutschland,Saarland,Sankt Wendel,114,10
+2020-12-14,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,726,36
+2020-12-21,Deutschland,Rheinland-Pfalz,Ahrweiler,114,2
+2020-12-21,Deutschland,Rheinland-Pfalz,Altenkirchen,74,5
+2020-12-21,Deutschland,Rheinland-Pfalz,Alzey-Worms,134,5
+2020-12-21,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,153,5
+2020-12-21,Deutschland,Rheinland-Pfalz,Bad Kreuznach,280,18
+2020-12-21,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,93,3
+2020-12-21,Deutschland,Rheinland-Pfalz,Birkenfeld,42,1
+2020-12-21,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,94,1
+2020-12-21,Deutschland,Rheinland-Pfalz,Cochem-Zell,79,4
+2020-12-21,Deutschland,Rheinland-Pfalz,Donnersbergkreis,70,5
+2020-12-21,Deutschland,Rheinland-Pfalz,Frankenthal,122,6
+2020-12-21,Deutschland,Rheinland-Pfalz,Germersheim,194,4
+2020-12-21,Deutschland,Rheinland-Pfalz,Kaiserslautern,124,1
+2020-12-21,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),157,5
+2020-12-21,Deutschland,Rheinland-Pfalz,Koblenz,137,4
+2020-12-21,Deutschland,Rheinland-Pfalz,Kusel,46,0
+2020-12-21,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,63,2
+2020-12-21,Deutschland,Rheinland-Pfalz,Ludwigshafen,453,20
+2020-12-21,Deutschland,Rheinland-Pfalz,Mainz,276,6
+2020-12-21,Deutschland,Rheinland-Pfalz,Mainz-Bingen,247,6
+2020-12-21,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,190,9
+2020-12-21,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,52,1
+2020-12-21,Deutschland,Rheinland-Pfalz,Neuwied,370,8
+2020-12-21,Deutschland,Rheinland-Pfalz,Pirmasens,96,16
+2020-12-21,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,147,8
+2020-12-21,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,201,6
+2020-12-21,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,307,17
+2020-12-21,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,144,7
+2020-12-21,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,101,1
+2020-12-21,Deutschland,Rheinland-Pfalz,Speyer,128,2
+2020-12-21,Deutschland,Rheinland-Pfalz,Trier,93,0
+2020-12-21,Deutschland,Rheinland-Pfalz,Trier-Saarburg,185,10
+2020-12-21,Deutschland,Rheinland-Pfalz,Vulkaneifel,73,0
+2020-12-21,Deutschland,Rheinland-Pfalz,Westerwaldkreis,334,14
+2020-12-21,Deutschland,Rheinland-Pfalz,Worms,127,4
+2020-12-21,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,17,0
+2020-12-21,Deutschland,Saarland,Merzig-Wadern,114,2
+2020-12-21,Deutschland,Saarland,Neunkirchen,156,6
+2020-12-21,Deutschland,Saarland,Saarlouis,301,11
+2020-12-21,Deutschland,Saarland,Saarpfalz-Kreis,99,3
+2020-12-21,Deutschland,Saarland,Sankt Wendel,74,3
+2020-12-21,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,818,39
+2020-12-28,Deutschland,Rheinland-Pfalz,Ahrweiler,88,5
+2020-12-28,Deutschland,Rheinland-Pfalz,Altenkirchen,48,6
+2020-12-28,Deutschland,Rheinland-Pfalz,Alzey-Worms,118,8
+2020-12-28,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,105,4
+2020-12-28,Deutschland,Rheinland-Pfalz,Bad Kreuznach,175,8
+2020-12-28,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,41,0
+2020-12-28,Deutschland,Rheinland-Pfalz,Birkenfeld,42,4
+2020-12-28,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,92,1
+2020-12-28,Deutschland,Rheinland-Pfalz,Cochem-Zell,23,0
+2020-12-28,Deutschland,Rheinland-Pfalz,Donnersbergkreis,45,2
+2020-12-28,Deutschland,Rheinland-Pfalz,Frankenthal,64,2
+2020-12-28,Deutschland,Rheinland-Pfalz,Germersheim,123,6
+2020-12-28,Deutschland,Rheinland-Pfalz,Kaiserslautern,120,4
+2020-12-28,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),123,13
+2020-12-28,Deutschland,Rheinland-Pfalz,Koblenz,80,0
+2020-12-28,Deutschland,Rheinland-Pfalz,Kusel,54,1
+2020-12-28,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,45,4
+2020-12-28,Deutschland,Rheinland-Pfalz,Ludwigshafen,226,17
+2020-12-28,Deutschland,Rheinland-Pfalz,Mainz,153,6
+2020-12-28,Deutschland,Rheinland-Pfalz,Mainz-Bingen,166,3
+2020-12-28,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,128,4
+2020-12-28,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,53,3
+2020-12-28,Deutschland,Rheinland-Pfalz,Neuwied,256,6
+2020-12-28,Deutschland,Rheinland-Pfalz,Pirmasens,35,3
+2020-12-28,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,83,6
+2020-12-28,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,117,3
+2020-12-28,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,171,8
+2020-12-28,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,75,5
+2020-12-28,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,77,6
+2020-12-28,Deutschland,Rheinland-Pfalz,Speyer,75,3
+2020-12-28,Deutschland,Rheinland-Pfalz,Trier,79,0
+2020-12-28,Deutschland,Rheinland-Pfalz,Trier-Saarburg,139,10
+2020-12-28,Deutschland,Rheinland-Pfalz,Vulkaneifel,26,1
+2020-12-28,Deutschland,Rheinland-Pfalz,Westerwaldkreis,173,10
+2020-12-28,Deutschland,Rheinland-Pfalz,Worms,99,12
+2020-12-28,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,12,0
+2020-12-28,Deutschland,Saarland,Merzig-Wadern,76,2
+2020-12-28,Deutschland,Saarland,Neunkirchen,83,6
+2020-12-28,Deutschland,Saarland,Saarlouis,237,8
+2020-12-28,Deutschland,Saarland,Saarpfalz-Kreis,80,5
+2020-12-28,Deutschland,Saarland,Sankt Wendel,52,5
+2020-12-28,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,237,9
+2021-01-04,Deutschland,Rheinland-Pfalz,Ahrweiler,220,3
+2021-01-04,Deutschland,Rheinland-Pfalz,Altenkirchen,145,8
+2021-01-04,Deutschland,Rheinland-Pfalz,Alzey-Worms,210,13
+2021-01-04,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,214,14
+2021-01-04,Deutschland,Rheinland-Pfalz,Bad Kreuznach,420,21
+2021-01-04,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,132,12
+2021-01-04,Deutschland,Rheinland-Pfalz,Birkenfeld,128,6
+2021-01-04,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,110,2
+2021-01-04,Deutschland,Rheinland-Pfalz,Cochem-Zell,87,3
+2021-01-04,Deutschland,Rheinland-Pfalz,Donnersbergkreis,125,6
+2021-01-04,Deutschland,Rheinland-Pfalz,Frankenthal,83,6
+2021-01-04,Deutschland,Rheinland-Pfalz,Germersheim,196,10
+2021-01-04,Deutschland,Rheinland-Pfalz,Kaiserslautern,172,3
+2021-01-04,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),187,12
+2021-01-04,Deutschland,Rheinland-Pfalz,Koblenz,207,12
+2021-01-04,Deutschland,Rheinland-Pfalz,Kusel,100,6
+2021-01-04,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,111,5
+2021-01-04,Deutschland,Rheinland-Pfalz,Ludwigshafen,477,32
+2021-01-04,Deutschland,Rheinland-Pfalz,Mainz,434,17
+2021-01-04,Deutschland,Rheinland-Pfalz,Mainz-Bingen,434,11
+2021-01-04,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,362,15
+2021-01-04,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,70,4
+2021-01-04,Deutschland,Rheinland-Pfalz,Neuwied,355,10
+2021-01-04,Deutschland,Rheinland-Pfalz,Pirmasens,75,6
+2021-01-04,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,207,11
+2021-01-04,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,132,2
+2021-01-04,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,356,26
+2021-01-04,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,176,5
+2021-01-04,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,130,9
+2021-01-04,Deutschland,Rheinland-Pfalz,Speyer,97,4
+2021-01-04,Deutschland,Rheinland-Pfalz,Trier,117,2
+2021-01-04,Deutschland,Rheinland-Pfalz,Trier-Saarburg,186,8
+2021-01-04,Deutschland,Rheinland-Pfalz,Vulkaneifel,62,2
+2021-01-04,Deutschland,Rheinland-Pfalz,Westerwaldkreis,303,7
+2021-01-04,Deutschland,Rheinland-Pfalz,Worms,303,21
+2021-01-04,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,30,1
+2021-01-04,Deutschland,Saarland,Merzig-Wadern,176,0
+2021-01-04,Deutschland,Saarland,Neunkirchen,196,4
+2021-01-04,Deutschland,Saarland,Saarlouis,525,31
+2021-01-04,Deutschland,Saarland,Saarpfalz-Kreis,169,7
+2021-01-04,Deutschland,Saarland,Sankt Wendel,156,16
+2021-01-04,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,818,34
+2021-01-11,Deutschland,Rheinland-Pfalz,Ahrweiler,124,1
+2021-01-11,Deutschland,Rheinland-Pfalz,Altenkirchen,109,8
+2021-01-11,Deutschland,Rheinland-Pfalz,Alzey-Worms,147,4
+2021-01-11,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,168,13
+2021-01-11,Deutschland,Rheinland-Pfalz,Bad Kreuznach,234,11
+2021-01-11,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,93,6
+2021-01-11,Deutschland,Rheinland-Pfalz,Birkenfeld,142,3
+2021-01-11,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,62,0
+2021-01-11,Deutschland,Rheinland-Pfalz,Cochem-Zell,70,3
+2021-01-11,Deutschland,Rheinland-Pfalz,Donnersbergkreis,99,7
+2021-01-11,Deutschland,Rheinland-Pfalz,Frankenthal,54,0
+2021-01-11,Deutschland,Rheinland-Pfalz,Germersheim,117,3
+2021-01-11,Deutschland,Rheinland-Pfalz,Kaiserslautern,105,3
+2021-01-11,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),146,9
+2021-01-11,Deutschland,Rheinland-Pfalz,Koblenz,150,12
+2021-01-11,Deutschland,Rheinland-Pfalz,Kusel,34,2
+2021-01-11,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,86,4
+2021-01-11,Deutschland,Rheinland-Pfalz,Ludwigshafen,361,21
+2021-01-11,Deutschland,Rheinland-Pfalz,Mainz,238,12
+2021-01-11,Deutschland,Rheinland-Pfalz,Mainz-Bingen,296,18
+2021-01-11,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,220,13
+2021-01-11,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,64,4
+2021-01-11,Deutschland,Rheinland-Pfalz,Neuwied,204,4
+2021-01-11,Deutschland,Rheinland-Pfalz,Pirmasens,52,5
+2021-01-11,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,174,7
+2021-01-11,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,102,4
+2021-01-11,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,199,12
+2021-01-11,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,191,21
+2021-01-11,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,74,5
+2021-01-11,Deutschland,Rheinland-Pfalz,Speyer,54,1
+2021-01-11,Deutschland,Rheinland-Pfalz,Trier,68,0
+2021-01-11,Deutschland,Rheinland-Pfalz,Trier-Saarburg,73,0
+2021-01-11,Deutschland,Rheinland-Pfalz,Vulkaneifel,50,4
+2021-01-11,Deutschland,Rheinland-Pfalz,Westerwaldkreis,167,12
+2021-01-11,Deutschland,Rheinland-Pfalz,Worms,158,16
+2021-01-11,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,16,0
+2021-01-11,Deutschland,Saarland,Merzig-Wadern,82,1
+2021-01-11,Deutschland,Saarland,Neunkirchen,111,1
+2021-01-11,Deutschland,Saarland,Saarlouis,224,3
+2021-01-11,Deutschland,Saarland,Saarpfalz-Kreis,103,5
+2021-01-11,Deutschland,Saarland,Sankt Wendel,111,3
+2021-01-11,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,476,26
+2021-01-18,Deutschland,Rheinland-Pfalz,Ahrweiler,94,2
+2021-01-18,Deutschland,Rheinland-Pfalz,Altenkirchen,77,7
+2021-01-18,Deutschland,Rheinland-Pfalz,Alzey-Worms,156,7
+2021-01-18,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,171,13
+2021-01-18,Deutschland,Rheinland-Pfalz,Bad Kreuznach,210,5
+2021-01-18,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,64,0
+2021-01-18,Deutschland,Rheinland-Pfalz,Birkenfeld,191,12
+2021-01-18,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,46,0
+2021-01-18,Deutschland,Rheinland-Pfalz,Cochem-Zell,88,5
+2021-01-18,Deutschland,Rheinland-Pfalz,Donnersbergkreis,72,2
+2021-01-18,Deutschland,Rheinland-Pfalz,Frankenthal,59,2
+2021-01-18,Deutschland,Rheinland-Pfalz,Germersheim,110,1
+2021-01-18,Deutschland,Rheinland-Pfalz,Kaiserslautern,107,1
+2021-01-18,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),87,4
+2021-01-18,Deutschland,Rheinland-Pfalz,Koblenz,155,12
+2021-01-18,Deutschland,Rheinland-Pfalz,Kusel,41,1
+2021-01-18,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,74,1
+2021-01-18,Deutschland,Rheinland-Pfalz,Ludwigshafen,231,19
+2021-01-18,Deutschland,Rheinland-Pfalz,Mainz,185,7
+2021-01-18,Deutschland,Rheinland-Pfalz,Mainz-Bingen,229,24
+2021-01-18,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,299,16
+2021-01-18,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,53,4
+2021-01-18,Deutschland,Rheinland-Pfalz,Neuwied,257,6
+2021-01-18,Deutschland,Rheinland-Pfalz,Pirmasens,39,2
+2021-01-18,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,109,3
+2021-01-18,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,124,2
+2021-01-18,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,175,5
+2021-01-18,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,208,13
+2021-01-18,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,69,4
+2021-01-18,Deutschland,Rheinland-Pfalz,Speyer,38,0
+2021-01-18,Deutschland,Rheinland-Pfalz,Trier,57,0
+2021-01-18,Deutschland,Rheinland-Pfalz,Trier-Saarburg,70,0
+2021-01-18,Deutschland,Rheinland-Pfalz,Vulkaneifel,29,3
+2021-01-18,Deutschland,Rheinland-Pfalz,Westerwaldkreis,189,9
+2021-01-18,Deutschland,Rheinland-Pfalz,Worms,137,3
+2021-01-18,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,16,0
+2021-01-18,Deutschland,Saarland,Merzig-Wadern,89,4
+2021-01-18,Deutschland,Saarland,Neunkirchen,134,5
+2021-01-18,Deutschland,Saarland,Saarlouis,223,3
+2021-01-18,Deutschland,Saarland,Saarpfalz-Kreis,108,7
+2021-01-18,Deutschland,Saarland,Sankt Wendel,108,6
+2021-01-18,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,467,23
+2021-01-25,Deutschland,Rheinland-Pfalz,Ahrweiler,102,2
+2021-01-25,Deutschland,Rheinland-Pfalz,Altenkirchen,74,3
+2021-01-25,Deutschland,Rheinland-Pfalz,Alzey-Worms,82,2
+2021-01-25,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,167,12
+2021-01-25,Deutschland,Rheinland-Pfalz,Bad Kreuznach,191,8
+2021-01-25,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,45,1
+2021-01-25,Deutschland,Rheinland-Pfalz,Birkenfeld,105,5
+2021-01-25,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,37,0
+2021-01-25,Deutschland,Rheinland-Pfalz,Cochem-Zell,45,1
+2021-01-25,Deutschland,Rheinland-Pfalz,Donnersbergkreis,57,1
+2021-01-25,Deutschland,Rheinland-Pfalz,Frankenthal,73,0
+2021-01-25,Deutschland,Rheinland-Pfalz,Germersheim,79,0
+2021-01-25,Deutschland,Rheinland-Pfalz,Kaiserslautern,101,6
+2021-01-25,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),92,2
+2021-01-25,Deutschland,Rheinland-Pfalz,Koblenz,159,9
+2021-01-25,Deutschland,Rheinland-Pfalz,Kusel,32,1
+2021-01-25,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,63,1
+2021-01-25,Deutschland,Rheinland-Pfalz,Ludwigshafen,167,5
+2021-01-25,Deutschland,Rheinland-Pfalz,Mainz,143,9
+2021-01-25,Deutschland,Rheinland-Pfalz,Mainz-Bingen,166,13
+2021-01-25,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,168,3
+2021-01-25,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,42,0
+2021-01-25,Deutschland,Rheinland-Pfalz,Neuwied,179,5
+2021-01-25,Deutschland,Rheinland-Pfalz,Pirmasens,24,0
+2021-01-25,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,134,7
+2021-01-25,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,86,1
+2021-01-25,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,135,2
+2021-01-25,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,124,5
+2021-01-25,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,43,0
+2021-01-25,Deutschland,Rheinland-Pfalz,Speyer,34,1
+2021-01-25,Deutschland,Rheinland-Pfalz,Trier,42,0
+2021-01-25,Deutschland,Rheinland-Pfalz,Trier-Saarburg,90,0
+2021-01-25,Deutschland,Rheinland-Pfalz,Vulkaneifel,55,3
+2021-01-25,Deutschland,Rheinland-Pfalz,Westerwaldkreis,149,3
+2021-01-25,Deutschland,Rheinland-Pfalz,Worms,77,1
+2021-01-25,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,7,0
+2021-01-25,Deutschland,Saarland,Merzig-Wadern,103,1
+2021-01-25,Deutschland,Saarland,Neunkirchen,160,5
+2021-01-25,Deutschland,Saarland,Saarlouis,262,6
+2021-01-25,Deutschland,Saarland,Saarpfalz-Kreis,139,2
+2021-01-25,Deutschland,Saarland,Sankt Wendel,103,2
+2021-01-25,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,434,10
+2021-02-01,Deutschland,Rheinland-Pfalz,Ahrweiler,95,1
+2021-02-01,Deutschland,Rheinland-Pfalz,Altenkirchen,72,0
+2021-02-01,Deutschland,Rheinland-Pfalz,Alzey-Worms,100,0
+2021-02-01,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,93,4
+2021-02-01,Deutschland,Rheinland-Pfalz,Bad Kreuznach,136,2
+2021-02-01,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,37,1
+2021-02-01,Deutschland,Rheinland-Pfalz,Birkenfeld,69,1
+2021-02-01,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,27,0
+2021-02-01,Deutschland,Rheinland-Pfalz,Cochem-Zell,38,5
+2021-02-01,Deutschland,Rheinland-Pfalz,Donnersbergkreis,46,1
+2021-02-01,Deutschland,Rheinland-Pfalz,Frankenthal,26,0
+2021-02-01,Deutschland,Rheinland-Pfalz,Germersheim,75,1
+2021-02-01,Deutschland,Rheinland-Pfalz,Kaiserslautern,95,4
+2021-02-01,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),35,0
+2021-02-01,Deutschland,Rheinland-Pfalz,Koblenz,102,3
+2021-02-01,Deutschland,Rheinland-Pfalz,Kusel,27,0
+2021-02-01,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,35,0
+2021-02-01,Deutschland,Rheinland-Pfalz,Ludwigshafen,122,4
+2021-02-01,Deutschland,Rheinland-Pfalz,Mainz,89,2
+2021-02-01,Deutschland,Rheinland-Pfalz,Mainz-Bingen,117,5
+2021-02-01,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,104,2
+2021-02-01,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,45,1
+2021-02-01,Deutschland,Rheinland-Pfalz,Neuwied,112,3
+2021-02-01,Deutschland,Rheinland-Pfalz,Pirmasens,25,2
+2021-02-01,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,99,3
+2021-02-01,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,89,1
+2021-02-01,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,92,0
+2021-02-01,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,72,3
+2021-02-01,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,43,3
+2021-02-01,Deutschland,Rheinland-Pfalz,Speyer,15,0
+2021-02-01,Deutschland,Rheinland-Pfalz,Trier,45,2
+2021-02-01,Deutschland,Rheinland-Pfalz,Trier-Saarburg,110,1
+2021-02-01,Deutschland,Rheinland-Pfalz,Vulkaneifel,58,6
+2021-02-01,Deutschland,Rheinland-Pfalz,Westerwaldkreis,135,0
+2021-02-01,Deutschland,Rheinland-Pfalz,Worms,87,0
+2021-02-01,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,5,0
+2021-02-01,Deutschland,Saarland,Merzig-Wadern,70,2
+2021-02-01,Deutschland,Saarland,Neunkirchen,247,11
+2021-02-01,Deutschland,Saarland,Saarlouis,189,5
+2021-02-01,Deutschland,Saarland,Saarpfalz-Kreis,102,0
+2021-02-01,Deutschland,Saarland,Sankt Wendel,78,4
+2021-02-01,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,382,4
+2021-02-08,Deutschland,Rheinland-Pfalz,Ahrweiler,87,0
+2021-02-08,Deutschland,Rheinland-Pfalz,Altenkirchen,111,1
+2021-02-08,Deutschland,Rheinland-Pfalz,Alzey-Worms,52,0
+2021-02-08,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,69,3
+2021-02-08,Deutschland,Rheinland-Pfalz,Bad Kreuznach,78,0
+2021-02-08,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,31,0
+2021-02-08,Deutschland,Rheinland-Pfalz,Birkenfeld,91,0
+2021-02-08,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,74,0
+2021-02-08,Deutschland,Rheinland-Pfalz,Cochem-Zell,75,4
+2021-02-08,Deutschland,Rheinland-Pfalz,Donnersbergkreis,34,0
+2021-02-08,Deutschland,Rheinland-Pfalz,Frankenthal,34,0
+2021-02-08,Deutschland,Rheinland-Pfalz,Germersheim,112,2
+2021-02-08,Deutschland,Rheinland-Pfalz,Kaiserslautern,33,0
+2021-02-08,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),24,0
+2021-02-08,Deutschland,Rheinland-Pfalz,Koblenz,60,2
+2021-02-08,Deutschland,Rheinland-Pfalz,Kusel,18,0
+2021-02-08,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,28,1
+2021-02-08,Deutschland,Rheinland-Pfalz,Ludwigshafen,78,1
+2021-02-08,Deutschland,Rheinland-Pfalz,Mainz,75,1
+2021-02-08,Deutschland,Rheinland-Pfalz,Mainz-Bingen,59,1
+2021-02-08,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,90,2
+2021-02-08,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,28,1
+2021-02-08,Deutschland,Rheinland-Pfalz,Neuwied,110,0
+2021-02-08,Deutschland,Rheinland-Pfalz,Pirmasens,15,0
+2021-02-08,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,101,5
+2021-02-08,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,78,0
+2021-02-08,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,68,0
+2021-02-08,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,47,2
+2021-02-08,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,32,0
+2021-02-08,Deutschland,Rheinland-Pfalz,Speyer,28,0
+2021-02-08,Deutschland,Rheinland-Pfalz,Trier,41,0
+2021-02-08,Deutschland,Rheinland-Pfalz,Trier-Saarburg,72,1
+2021-02-08,Deutschland,Rheinland-Pfalz,Vulkaneifel,46,2
+2021-02-08,Deutschland,Rheinland-Pfalz,Westerwaldkreis,114,1
+2021-02-08,Deutschland,Rheinland-Pfalz,Worms,44,0
+2021-02-08,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,1,0
+2021-02-08,Deutschland,Saarland,Merzig-Wadern,79,0
+2021-02-08,Deutschland,Saarland,Neunkirchen,132,0
+2021-02-08,Deutschland,Saarland,Saarlouis,135,3
+2021-02-08,Deutschland,Saarland,Saarpfalz-Kreis,61,0
+2021-02-08,Deutschland,Saarland,Sankt Wendel,68,4
+2021-02-08,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,211,2
+2021-02-15,Deutschland,Rheinland-Pfalz,Ahrweiler,95,1
+2021-02-15,Deutschland,Rheinland-Pfalz,Altenkirchen,124,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Alzey-Worms,57,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,31,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Bad Kreuznach,84,1
+2021-02-15,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,72,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Birkenfeld,75,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,91,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Cochem-Zell,59,3
+2021-02-15,Deutschland,Rheinland-Pfalz,Donnersbergkreis,33,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Frankenthal,32,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Germersheim,139,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Kaiserslautern,20,1
+2021-02-15,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),23,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Koblenz,37,1
+2021-02-15,Deutschland,Rheinland-Pfalz,Kusel,18,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,14,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Ludwigshafen,79,1
+2021-02-15,Deutschland,Rheinland-Pfalz,Mainz,45,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Mainz-Bingen,63,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,101,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,36,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Neuwied,124,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Pirmasens,18,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,95,1
+2021-02-15,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,98,1
+2021-02-15,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,78,0
+2021-02-15,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,38,0
+2021-02-15,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,31,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Speyer,29,1
+2021-02-15,Deutschland,Rheinland-Pfalz,Trier,38,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Trier-Saarburg,68,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Vulkaneifel,45,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Westerwaldkreis,112,0
+2021-02-15,Deutschland,Rheinland-Pfalz,Worms,52,0
+2021-02-15,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,13,0
+2021-02-15,Deutschland,Saarland,Merzig-Wadern,50,0
+2021-02-15,Deutschland,Saarland,Neunkirchen,97,1
+2021-02-15,Deutschland,Saarland,Saarlouis,133,0
+2021-02-15,Deutschland,Saarland,Saarpfalz-Kreis,54,0
+2021-02-15,Deutschland,Saarland,Sankt Wendel,78,1
+2021-02-15,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,195,1
+2021-02-22,Deutschland,Rheinland-Pfalz,Ahrweiler,82,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Altenkirchen,73,1
+2021-02-22,Deutschland,Rheinland-Pfalz,Alzey-Worms,49,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Bad DÃ¼rkheim,27,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Bad Kreuznach,54,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Bernkastel-Wittlich,17,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Birkenfeld,53,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Bitburg-PrÃ¼m,53,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Cochem-Zell,13,1
+2021-02-22,Deutschland,Rheinland-Pfalz,Donnersbergkreis,11,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Frankenthal,25,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Germersheim,117,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Kaiserslautern,33,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Kaiserslautern (Kreisfreie Stadt),12,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Koblenz,43,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Kusel,5,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Landau i.d.Pfalz,8,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Ludwigshafen,98,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Mainz,47,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Mainz-Bingen,68,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Mayen-Koblenz,75,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Neustadt a.d.WeinstraÃŸe,14,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Neuwied,85,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Pirmasens,13,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Rhein-HunsrÃ¼ck-Kreis,74,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Rhein-Lahn-Kreis,72,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Rhein-Pfalz-Kreis,49,0
+2021-02-22,Deutschland,Rheinland-Pfalz,SÃ¼dliche WeinstraÃŸe,28,0
+2021-02-22,Deutschland,Rheinland-Pfalz,SÃ¼dwestpfalz,32,1
+2021-02-22,Deutschland,Rheinland-Pfalz,Speyer,15,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Trier,25,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Trier-Saarburg,47,1
+2021-02-22,Deutschland,Rheinland-Pfalz,Vulkaneifel,26,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Westerwaldkreis,52,0
+2021-02-22,Deutschland,Rheinland-Pfalz,Worms,30,0
+2021-02-22,Deutschland,Rheinland-Pfalz,ZweibrÃ¼cken,18,0
+2021-02-22,Deutschland,Saarland,Merzig-Wadern,45,0
+2021-02-22,Deutschland,Saarland,Neunkirchen,102,0
+2021-02-22,Deutschland,Saarland,Saarlouis,118,1
+2021-02-22,Deutschland,Saarland,Saarpfalz-Kreis,50,1
+2021-02-22,Deutschland,Saarland,Sankt Wendel,60,0
+2021-02-22,Deutschland,Saarland,Stadtverband SaarbrÃ¼cken,206,1

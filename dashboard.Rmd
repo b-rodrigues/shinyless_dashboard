@@ -1,0 +1,97 @@
+---
+title: "COVID-19 in the Greater Region"
+output: 
+  flexdashboard::flex_dashboard:
+    source_code: embed
+---
+
+```{r global, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+tar_load(raw_weekly_data)
+tar_load(raw_weekly_long)
+
+raw_weekly_data_shared <- SharedData$new(raw_weekly_data)
+raw_weekly_long_shared <- SharedData$new(raw_weekly_long)
+```
+
+Weekly COVID-19 cases and deaths detected by country (table) {data-navmenu="Choose tab"}
+======================================================================================================
+
+Inputs {.sidebar}
+-------------------------------------------------------------------------
+
+```{r}
+filter_checkbox("country", "Choose country", raw_weekly_data_shared, ~country)
+filter_select("year_month", "Choose month of the year", raw_weekly_data_shared, ~year_month)
+filter_slider("week_date", "Filter cases", raw_weekly_data_shared, ~cases, width = "100%")
+```
+
+Column
+-------------------------------------------------------------------------
+
+
+### Weekly positive cases and deaths
+ 
+```{r}
+
+datatable(raw_weekly_data_shared,
+          class = "compact cell-border",
+          rownames = FALSE,
+          options = list(order = list(1, "desc"),
+                         autoWidth = FALSE,
+                         pageLength = 20))
+```
+    
+    
+Weekly COVID-19 cases and deaths detected by country (Pivot Table) {data-navmenu="Choose tab"}
+======================================================================================================
+
+
+Column
+-------------------------------------------------------------------------
+
+
+### Weekly positive cases and deaths
+   
+```{r}
+tar_read(raw_weekly_data) %>%
+  rpivotTable()
+```
+
+
+Weekly COVID-19 cases and deaths detected by country (animated map) {data-navmenu="Choose tab"}
+======================================================================================================
+
+
+Column
+-------------------------------------------------------------------------
+
+
+### Weekly positive cases and deaths
+ 
+```{r}
+tar_read(interactive_plot)
+```
+
+
+Weekly COVID-19 cases and deaths detected by country (epidemic curves) {data-navmenu="Choose tab"}
+======================================================================================================
+
+Inputs {.sidebar}
+-------------------------------------------------------------------------
+
+```{r}
+filter_checkbox("type", "Choose cases or deaths", raw_weekly_long_shared, ~type)
+filter_select("year_month", "Choose month of the year", raw_weekly_long_shared, ~year_month)
+```
+
+Column
+-------------------------------------------------------------------------
+
+### Weekly positive cases and deaths
+
+```{r}
+raw_weekly_long_shared %>%
+  plot_ly(x = ~week, y = ~value, type = "bar", split = ~country, hovertext = ~sub_region)
+```

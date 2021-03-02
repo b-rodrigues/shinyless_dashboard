@@ -1,0 +1,19 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
+interactive_plot|stem|4e279374d74c683a|d566c68af8361f6d|618bff3151eda813|-809889799|_targets/objects/interactive_plot|083d9e94bcef3521|6649b80a6154bc65|548060|qs|vector|||1.59||
+interactive_plot2|stem|356a18e2b6f3bfbb|d566c68af8361f6d|618bff3151eda813|923594621|_targets/objects/interactive_plot2|01e18fc3149ff75d|39b0c4bf18880d14|531817|qs|vector|||0.964||
+interactive_map|stem|356a18e2b6f3bfbb|d566c68af8361f6d|618bff3151eda813|2076583980|_targets/objects/interactive_map|f85384efe9ac366d|39b0c4bf18880d14|531817|qs|vector|||0.983||
+read_covid_data|function|f4289cfaa4e02a67||||||||||||||
+get_population|function|3cc5d2142f02116a||||||||||||||
+plot_epi_curve|function|fcd86b9b40d705ae||||||||||||||
+make_raw_weekly_long|function|c6fcd326f28a5ee2||||||||||||||
+raw_weekly_data|stem|c0789fabd4fb2b98|2db1f1ddb68dc40f|e740f7b872bc3519|-1758055823|_targets/objects/raw_weekly_data|df8e8bf261bb92f4|d134804e7e1c9953|55704|fst|vector|||0.84||
+raw_weekly_long|stem|b880adcc6e434348|169b9c7987c449b0|821175352038557c|-1175545967|_targets/objects/raw_weekly_long|8bddcc5a103801d8|f09637b82f4cbeff|98848|fst|vector|||0.764||
+dashboard|stem|ec4d927842dbb0ec|5f7724166d26005d|5ae9f6b9bc9c3999|951390599|dashboard.html*dashboard.Rmd|1fea06e52a3b40ce|494971195b1be74a|20014362|file|vector|||41.545|Ignoring 208 observations|
+read_covid_data|function|f4289cfaa4e02a67
+get_population|function|3cc5d2142f02116a
+plot_epi_curve|function|fcd86b9b40d705ae
+make_raw_weekly_long|function|c6fcd326f28a5ee2
+raw_weekly_data|stem|c0789fabd4fb2b98|2db1f1ddb68dc40f|e740f7b872bc3519|-1758055823|_targets/objects/raw_weekly_data|df8e8bf261bb92f4|d134804e7e1c9953|55704|fst|vector|||0.84||
+interactive_plot|stem|b557496faeb06846|7573b5835b6eea25|618bff3151eda813|-809889799|_targets/objects/interactive_plot|6f7a86e1bdc9a4c1|5285edb80041d843|495699|qs|vector|||0.916||
+raw_weekly_long|stem|b880adcc6e434348|169b9c7987c449b0|821175352038557c|-1175545967|_targets/objects/raw_weekly_long|8bddcc5a103801d8|f09637b82f4cbeff|98848|fst|vector|||0.764||
+dashboard|stem|0d2380c8254c08ac|5f7724166d26005d|efcc0decc5ff1a6c|951390599|dashboard.html*dashboard.Rmd|899fd17631ca43ce|600d113a64287dea|13877238|file|vector|||6.564|Ignoring 208 observations|

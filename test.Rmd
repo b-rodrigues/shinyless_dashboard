@@ -1,0 +1,85 @@
+In this blog post, I wont to discuss something that I, personally, have never seen discussed; how to create
+a "serverless", "shinyless" dashboard using R.
+
+I made one dashboard like that, which you can find [here]().
+This dashboard is running on a simple, standard web server. No Shiny involved! 
+
+The idea is to create a dashboard with simple tables, graphs, and filters, to communicate results without
+the need for a Shiny server. The "dashboard" will be a simple html file that only needs a good old 
+web server. Or you could even send the rendered html file per email, and the recipient only needs
+to open it using a web browser. The shortcoming of that, of course, is that this "dashboard", 
+which is a simple html file will be static; no computation will be possible (well not quite as you'll see).
+But the first question, is why would we want, or need that?
+
+The advantage of not needing a Shiny server, is that it makes deployment much easier. If you can
+"deploy" a dashboard that does not need a Shiny server, this means that you don't need to set up...,
+well a server. In an institutional setting, this can literally mean you end up saving weeks, sometimes
+months, of getting the right green lights and signatures. When I worked as a consultant, deployment
+was definitely the toughest problem to solve (well, toughest maybe after getting access to the data 
+itself).
+
+The solution I'm going to present was in front of me for the longest time; it's just that I did not
+put 2 and 2 together. The first part of the solution `{flexdashboard}`, which is the framework
+allowing us to build a dashboard. Dashboards made with `{flexdashboard}` are simple html files, 
+which can have Shiny elements in them, so for instance an interactive plot that gets generated once 
+the user has entered some input. But these dashboards don't need to have Shiny elements in them;
+`htmlwidgets` are enough. What are `htmlwidgets`? Take a look at the graph below:
+
+```{r}
+library(plotly)
+mtcars %>%
+  plot_ly(y = ~hp, x = ~mpg, split = ~am)
+```
+
+You can interact with this visualisation, and it's 100% running in your web browser. No Shiny
+involved, even though you can zoom and select different levels in the legend on the top right 
+(try double-clicking on the "0" level for instance). This visualisation was made with the
+`{plotly}` package, one of the many `htmlwidgets` available. My favorite for such visualisations
+is `{echarts4r}` which I've used to create the [following map]() (how-to blog post [here]()).
+`htmlwidgets` bring JavaScript visualisations (and other goodies) to R, and what's really cool 
+about them is that they don't need a Shiny server to run (that's the whole point of 
+JavaScript, everything runs in the browser).
+So this means that by combining `{flexdashboard}` with the right `htmlwidgets` we can create a 
+simple, yet useful, dashboard that can be deployed as a web page.
+
+To illustrate, I've made the [following dashboard](), which shows tables, graphs, and even a 
+pivot table of COVID-19 cases and deaths of the Greater Region (to know more about the Greater 
+Region and why this interests me currently, you can [read this]()).
+
+Something else I need to talk about: on the very first tab, you can see a sidebar with some 
+inputs that the user can interact with. For instance, the use can choose which country's data should
+appear on the table. It is also possible to filter the positive cases data (not the deaths, but
+this could be added). This interaction between the sidebar and the table (which was made using 
+`{DT}`) was made possible using the `{crosstalk}` package. This package makes it possible to
+link several `htmlwidgets` together, but they have to be compatible. Unfortunately, at the time
+of writing, not many `htmlwidgets` are compatible with `{crosstalk}` (see [here](https://rstudio.github.io/crosstalk/widgets.html)),
+but I would say that the ones that are compatiable still make it possible to create some pretty 
+useful stuff. 
+Another tab that uses `{crosstalk}` is the last one, where you can take a look at the weekly
+positive cases and deaths for the countries of the Greater Regions (but only for the sub-regions
+of these countries composing the Greater Region). Here, the user can choose whether deaths or 
+positive cases should be shown. The plot updates immediately, and it's also possible to 
+focus on a single country by double-clicking on it in the legend on the top-right.
+Again, it's also possible to focus on a particular month. Here I wanted to use a slicer like on the
+first table, but on the date. This should work (I'm using exactly that on another dashboard I made
+like that), but for some reason here, it would not. The dashboard would compile without any error message
+but tying to open the html file on my browser would make the browser hang.
+Something else that is quite cool; if you choose to focus on the cases, you can hover the mouse over
+the bars and see how many cases there were in the sub regions in each country.
+
+Now comes the cherry on top of this already delicious cake; on the second tab, you can interact
+with a pivot table! This makes it possible to, for instance, see how many deaths there were in each
+country, region or sub-region, on a weekly basis. You can even switch from a table to several 
+types of visualisations! This pivot table is made possible using the very nice `{rpivotTable}`
+package. This package is honestly nuts. It feels like it shouldn't work so well, and yet, it does
+work beautifully. Seriously, play around with it in the [dashboard](), it's pure magic.
+
+One final note; on the top right of the dashboard you can click on "Source Code" and read the 
+dashboard's source code. You will notice that I use two functions, `tar_load()` and `tar_read()`
+that can be found in the `{targets}` package. I will be explaining what that is exactly in a 
+subsequent blog post, or perhaps a video on my [youtube channel]().
+
+In any case, I'm quite happy that I found the possibility to develop dashboards without the need 
+of a server, where all the logic is handled client-side by the web browser. I think that this 
+definitely can help many of you that need to communicate results fast to stakeholders without the
+need to deploy a full server, which can take quite a long time in many situations.
